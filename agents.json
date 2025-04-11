@@ -1,0 +1,4718 @@
+[
+  {
+    "id": "aws-kb-retrieval",
+    "name": "AWS KB Retrieval",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/aws-kb-retrieval/README.md",
+    "description": "Retrieval from AWS Knowledge Base using Bedrock Agent Runtime",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "brave-search",
+    "name": "Brave Search",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/brave-search/README.md",
+    "description": "Web and local search using Brave's Search API",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "everart",
+    "name": "EverArt",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/everart/README.md",
+    "description": "AI image generation using various models",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "everything",
+    "name": "Everything",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/everything/README.md",
+    "description": "Reference / test server with prompts, resources, and tools",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "fetch",
+    "name": "Fetch",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/fetch/README.md",
+    "description": "Web content fetching and conversion for efficient LLM usage",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "filesystem",
+    "name": "Filesystem",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem/README.md",
+    "description": "Secure file operations with configurable access controls",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/git/README.md",
+    "description": "Tools to read, search, and manipulate Git repositories",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/github/README.md",
+    "description": "Repository management, file operations, and GitHub API integration",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "gitlab",
+    "name": "GitLab",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/gitlab/README.md",
+    "description": "GitLab API, enabling project management",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "google-drive",
+    "name": "Google Drive",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/gdrive/README.md",
+    "description": "File access and search capabilities for Google Drive",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "google-maps",
+    "name": "Google Maps",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/google-maps/README.md",
+    "description": "Location services, directions, and place details",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "memory",
+    "name": "Memory",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/memory/README.md",
+    "description": "Knowledge graph-based persistent memory system",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/postgres/README.md",
+    "description": "Read-only database access with schema inspection",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "puppeteer",
+    "name": "Puppeteer",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/puppeteer/README.md",
+    "description": "Browser automation and web scraping",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "redis",
+    "name": "Redis",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/redis/README.md",
+    "description": "Interact with Redis key-value stores",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "sentry",
+    "name": "Sentry",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/sentry/README.md",
+    "description": "Retrieving and analyzing issues from Sentry.io",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "sequential-thinking",
+    "name": "Sequential Thinking",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/sequentialthinking/README.md",
+    "description": "Dynamic and reflective problem-solving through thought sequences",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "slack",
+    "name": "Slack",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/slack/README.md",
+    "description": "Channel management and messaging capabilities",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "sqlite",
+    "name": "Sqlite",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/sqlite/README.md",
+    "description": "Database interaction and business intelligence capabilities",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "time",
+    "name": "Time",
+    "website": "https://github.com/modelcontextprotocol/servers/blob/main/src/time/README.md",
+    "description": "Time and timezone conversion capabilities",
+    "category": [
+      "Reference Servers"
+    ],
+    "isOpenSource": true,
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "21st-dev-magic",
+    "name": "21st.dev Magic",
+    "description": "Create crafted UI components inspired by the best 21st.dev design engineers",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/21st-dev/magic-mcp",
+    "logo": "https://www.21st.dev/favicon.ico",
+    "github": "https://github.com/21st-dev/magic-mcp",
+    "approved": true,
+    "githubStars": 1129
+  },
+  {
+    "id": "adfin",
+    "name": "Adfin",
+    "description": "The only platform you need to get paid - all payments in one place, invoicing and accounting reconciliations with [Adfin](https://www.adfin.com/)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Adfin-Engineering/mcp-server-adfin",
+    "logo": "https://invoxx-public-bucket.s3.eu-central-1.amazonaws.com/frontend-resources/adfin-logo-small.svg",
+    "github": "https://github.com/Adfin-Engineering/mcp-server-adfin",
+    "approved": true,
+    "githubStars": 3
+  },
+  {
+    "id": "agentql",
+    "name": "AgentQL",
+    "description": "Enable AI agents to get structured data from unstructured web with [AgentQL](https://www.agentql.com/)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/tinyfish-io/agentql-mcp",
+    "logo": "https://www.agentql.com/favicon/favicon.png",
+    "github": "https://github.com/tinyfish-io/agentql-mcp",
+    "approved": true,
+    "githubStars": 42
+  },
+  {
+    "id": "agentrpc",
+    "name": "AgentRPC",
+    "description": "Connect to any function, any language, across network boundaries using [AgentRPC](https://www.agentrpc.com/)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/agentrpc/agentrpc",
+    "logo": "https://agentrpc.com/favicon.ico",
+    "github": "https://github.com/agentrpc/agentrpc",
+    "approved": true,
+    "githubStars": 37
+  },
+  {
+    "id": "aiven",
+    "name": "Aiven",
+    "description": "Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Aiven-Open/mcp-aiven",
+    "logo": "https://aiven.io/favicon.ico",
+    "github": "https://github.com/Aiven-Open/mcp-aiven",
+    "approved": true,
+    "githubStars": 5
+  },
+  {
+    "id": "apache-iotdb",
+    "name": "Apache IoTDB",
+    "description": "MCP Server for [Apache IoTDB](https://github.com/apache/iotdb) database and its tools",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/apache/iotdb-mcp-server",
+    "logo": "https://iotdb.apache.org/img/logo.svg",
+    "github": "https://github.com/apache/iotdb-mcp-server",
+    "approved": true,
+    "githubStars": 8
+  },
+  {
+    "id": "apify",
+    "name": "Apify",
+    "description": "[Actors MCP Server](https://apify.com/apify/actors-mcp-server): Use 3,000+ pre-built cloud tools to extract data from websites, e-commerce, social media, search engines, maps, and more",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/apify/actors-mcp-server",
+    "logo": "https://apify.com/favicon.ico",
+    "github": "https://github.com/apify/actors-mcp-server",
+    "approved": true,
+    "githubStars": 146
+  },
+  {
+    "id": "apimatic-mcp",
+    "name": "APIMatic MCP",
+    "description": "APIMatic MCP Server is used to validate OpenAPI specifications using [APIMatic](https://www.apimatic.io/). The server processes OpenAPI files and returns validation summaries by leveraging APIMatic’s API",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/apimatic/apimatic-validator-mcp",
+    "logo": "https://2052727.fs1.hubspotusercontent-na1.net/hubfs/2052727/cropped-cropped-apimaticio-favicon-1-32x32.png",
+    "github": "https://github.com/apimatic/apimatic-validator-mcp",
+    "approved": true,
+    "githubStars": 1
+  },
+  {
+    "id": "audiense-insights",
+    "name": "Audiense Insights",
+    "description": "Marketing insights and audience analysis from [Audiense](https://www.audiense.com/products/audiense-insights) reports, covering demographic, cultural, influencer, and content engagement analysis",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/AudienseCo/mcp-audiense-insights",
+    "logo": "https://resources.audiense.com/hubfs/favicon-1.png",
+    "github": "https://github.com/AudienseCo/mcp-audiense-insights",
+    "approved": true,
+    "githubStars": 6
+  },
+  {
+    "id": "axiom",
+    "name": "Axiom",
+    "description": "Query and analyze your Axiom logs, traces, and all other event data in natural language",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/axiomhq/mcp-server-axiom",
+    "logo": "https://axiom.co/favicon.ico",
+    "github": "https://github.com/axiomhq/mcp-server-axiom",
+    "approved": true,
+    "githubStars": 31
+  },
+  {
+    "id": "bankless-onchain",
+    "name": "Bankless Onchain",
+    "description": "Query Onchain data, like ERC20 tokens, transaction history, smart contract state",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/bankless/onchain-mcp",
+    "logo": "https://www.bankless.com/favicon.ico",
+    "github": "https://github.com/bankless/onchain-mcp",
+    "approved": true,
+    "githubStars": 24
+  },
+  {
+    "id": "bicscan",
+    "name": "BICScan",
+    "description": "Risk score / asset holdings of EVM blockchain address (EOA, CA, ENS) and even domain names",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ahnlabio/bicscan-mcp",
+    "logo": "https://bicscan.io/favicon.png",
+    "github": "https://github.com/ahnlabio/bicscan-mcp",
+    "approved": true,
+    "githubStars": 1
+  },
+  {
+    "id": "box",
+    "name": "Box",
+    "description": "Interact with the Intelligent Content Management platform through Box AI",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/box-community/mcp-server-box",
+    "logo": "https://www.box.com/favicon.ico",
+    "github": "https://github.com/box-community/mcp-server-box",
+    "approved": true,
+    "githubStars": 10
+  },
+  {
+    "id": "browserbase",
+    "name": "Browserbase",
+    "description": "Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/browserbase/mcp-server-browserbase",
+    "logo": "https://browserbase.com/favicon.ico",
+    "github": "https://github.com/browserbase/mcp-server-browserbase",
+    "approved": true,
+    "githubStars": 765
+  },
+  {
+    "id": "chargebee",
+    "name": "Chargebee",
+    "description": "MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol",
+    "logo": "https://www.chargebee.com/static/resources/brand/favicon.png",
+    "github": "https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol",
+    "approved": true,
+    "githubStars": 6
+  },
+  {
+    "id": "chroma",
+    "name": "Chroma",
+    "description": "Embeddings, vector search, document storage, and full-text search with the open-source AI application database",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/chroma-core/chroma-mcp",
+    "logo": "https://trychroma.com/_next/static/media/chroma-logo.ae2d6e4b.svg",
+    "github": "https://github.com/chroma-core/chroma-mcp",
+    "approved": true,
+    "githubStars": 72
+  },
+  {
+    "id": "chronulus-ai",
+    "name": "Chronulus AI",
+    "description": "Predict anything with Chronulus AI forecasting and prediction agents",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ChronulusAI/chronulus-mcp",
+    "logo": "https://www.chronulus.com/favicon/chronulus-logo-blue-on-alpha-square-128x128.ico",
+    "github": "https://github.com/ChronulusAI/chronulus-mcp",
+    "approved": true,
+    "githubStars": 48
+  },
+  {
+    "id": "circleci",
+    "name": "CircleCI",
+    "description": "Enable AI Agents to fix build failures from CircleCI",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/CircleCI-Public/mcp-server-circleci",
+    "logo": "https://circleci.com/favicon.ico",
+    "github": "https://github.com/CircleCI-Public/mcp-server-circleci",
+    "approved": true,
+    "githubStars": 7
+  },
+  {
+    "id": "clickhouse",
+    "name": "ClickHouse",
+    "description": "Query your [ClickHouse](https://clickhouse.com/) database server",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ClickHouse/mcp-clickhouse",
+    "logo": "https://clickhouse.com/favicon.ico",
+    "github": "https://github.com/ClickHouse/mcp-clickhouse",
+    "approved": true,
+    "githubStars": 147
+  },
+  {
+    "id": "cloudflare",
+    "name": "Cloudflare",
+    "description": "Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/cloudflare/mcp-server-cloudflare",
+    "logo": "https://cdn.simpleicons.org/cloudflare",
+    "github": "https://github.com/cloudflare/mcp-server-cloudflare",
+    "approved": true,
+    "githubStars": 1276
+  },
+  {
+    "id": "codelogic",
+    "name": "CodeLogic",
+    "description": "Interact with [CodeLogic](https://codelogic.com), a Software Intelligence platform that graphs complex code and data architecture dependencies, to boost AI accuracy and insight",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/CodeLogicIncEngineering/codelogic-mcp-server",
+    "logo": "https://codelogic.com/wp-content/themes/codelogic/assets/img/favicon.png",
+    "github": "https://github.com/CodeLogicIncEngineering/codelogic-mcp-server",
+    "approved": true,
+    "githubStars": 3
+  },
+  {
+    "id": "comet-opik",
+    "name": "Comet Opik",
+    "description": "Query and analyze your [Opik](https://github.com/comet-ml/opik) logs, traces, prompts and all other telemtry data from your LLMs in natural language",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/comet-ml/opik-mcp",
+    "logo": "https://www.comet.com/favicon.ico",
+    "github": "https://github.com/comet-ml/opik-mcp",
+    "approved": true,
+    "githubStars": 46
+  },
+  {
+    "id": "convex",
+    "name": "Convex",
+    "description": "Introspect and query your apps deployed to Convex",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": false,
+    "website": "https://stack.convex.dev/convex-mcp-server",
+    "logo": "https://www.convex.dev/favicon.ico",
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "dart",
+    "name": "Dart",
+    "description": "Interact with task, doc, and project data in [Dart](https://itsdart.com), an AI-native project management tool",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/its-dart/dart-mcp-server",
+    "logo": "http://app.itsdart.com/static/img/favicon.png",
+    "github": "https://github.com/its-dart/dart-mcp-server",
+    "approved": true,
+    "githubStars": 35
+  },
+  {
+    "id": "devhub",
+    "name": "DevHub",
+    "description": "Manage and utilize website content within the [DevHub](https://www.devhub.com) CMS platform",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/devhub/devhub-cms-mcp",
+    "logo": "https://www.devhub.com/img/upload/favicon-196x196-dh.png",
+    "github": "https://github.com/devhub/devhub-cms-mcp",
+    "approved": true,
+    "githubStars": 1
+  },
+  {
+    "id": "e2b",
+    "name": "E2B",
+    "description": "Run code in secure sandboxes hosted by [E2B](https://e2b.dev)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/e2b-dev/mcp-server",
+    "logo": "https://e2b.dev/favicon.ico",
+    "github": "https://github.com/e2b-dev/mcp-server",
+    "approved": true,
+    "githubStars": 200
+  },
+  {
+    "id": "edubase",
+    "name": "EduBase",
+    "description": "Interact with [EduBase](https://www.edubase.net), a comprehensive e-learning platform with advanced quizzing, exam management, and content organization capabilities",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/EduBase/MCP",
+    "logo": "https://static.edubase.net/media/brand/favicon/favicon-32x32.png",
+    "github": "https://github.com/EduBase/MCP",
+    "approved": true,
+    "githubStars": 8
+  },
+  {
+    "id": "elasticsearch",
+    "name": "Elasticsearch",
+    "description": "Query your data in [Elasticsearch](https://www.elastic.co/elasticsearch)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/elastic/mcp-server-elasticsearch",
+    "logo": "https://www.elastic.co/favicon.ico",
+    "github": "https://github.com/elastic/mcp-server-elasticsearch",
+    "approved": true,
+    "githubStars": 78
+  },
+  {
+    "id": "esignatures",
+    "name": "eSignatures",
+    "description": "Contract and template management for drafting, reviewing, and sending binding contracts",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/esignaturescom/mcp-server-esignatures",
+    "logo": "https://esignatures.com/favicon.ico",
+    "github": "https://github.com/esignaturescom/mcp-server-esignatures",
+    "approved": true,
+    "githubStars": 11
+  },
+  {
+    "id": "exa",
+    "name": "Exa",
+    "description": "Search Engine made for AIs by [Exa](https://exa.ai)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/exa-labs/exa-mcp-server",
+    "logo": "https://exa.ai/images/favicon-32x32.png",
+    "github": "https://github.com/exa-labs/exa-mcp-server",
+    "approved": true,
+    "githubStars": 516
+  },
+  {
+    "id": "fewsats",
+    "name": "Fewsats",
+    "description": "Enable AI Agents to purchase anything in a secure way using [Fewsats](https://fewsats.com)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Fewsats/fewsats-mcp",
+    "logo": "https://fewsats.com/favicon.svg",
+    "github": "https://github.com/Fewsats/fewsats-mcp",
+    "approved": true,
+    "githubStars": 10
+  },
+  {
+    "id": "fibery",
+    "name": "Fibery",
+    "description": "Perform queries and entity operations in your [Fibery](https://fibery.io) workspace",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Fibery-inc/fibery-mcp-server",
+    "logo": "https://fibery.io/favicon.svg",
+    "github": "https://github.com/Fibery-inc/fibery-mcp-server",
+    "approved": true,
+    "githubStars": 10
+  },
+  {
+    "id": "financial-datasets",
+    "name": "Financial Datasets",
+    "description": "Stock market API made for AI agents",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/financial-datasets/mcp-server",
+    "logo": "https://financialdatasets.ai/favicon.ico",
+    "github": "https://github.com/financial-datasets/mcp-server",
+    "approved": true,
+    "githubStars": 188
+  },
+  {
+    "id": "firecrawl",
+    "name": "Firecrawl",
+    "description": "Extract web data with [Firecrawl](https://firecrawl.dev)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/mendableai/firecrawl-mcp-server",
+    "logo": "https://firecrawl.dev/favicon.ico",
+    "github": "https://github.com/mendableai/firecrawl-mcp-server",
+    "approved": true,
+    "githubStars": 2371
+  },
+  {
+    "id": "fireproof",
+    "name": "Fireproof",
+    "description": "Immutable ledger database with live synchronization",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/fireproof-storage/mcp-database-server",
+    "logo": "https://fireproof.storage/favicon.ico",
+    "github": "https://github.com/fireproof-storage/mcp-database-server",
+    "approved": true,
+    "githubStars": 15
+  },
+  {
+    "id": "gitee",
+    "name": "Gitee",
+    "description": "Gitee API integration, repository, issue, and pull request management, and more",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/oschina/mcp-gitee",
+    "logo": "https://gitee.com/favicon.ico",
+    "github": "https://github.com/oschina/mcp-gitee",
+    "approved": true,
+    "githubStars": 18
+  },
+  {
+    "id": "gotohuman",
+    "name": "gotoHuman",
+    "description": "Human-in-the-loop platform - Allow AI agents and automations to send requests for approval to your [gotoHuman](https://www.gotohuman.com) inbox",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/gotohuman/gotohuman-mcp-server",
+    "logo": "https://cdn.prod.website-files.com/6605a2979ff17b2cd1939cd4/6605a460de47e7596ed84f06_icon256.png",
+    "github": "https://github.com/gotohuman/gotohuman-mcp-server",
+    "approved": true,
+    "githubStars": 13
+  },
+  {
+    "id": "grafana",
+    "name": "Grafana",
+    "description": "Search dashboards, investigate incidents and query datasources in your Grafana instance",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/grafana/mcp-grafana",
+    "logo": "https://grafana.com/favicon.ico",
+    "github": "https://github.com/grafana/mcp-grafana",
+    "approved": true,
+    "githubStars": 453
+  },
+  {
+    "id": "graphlit",
+    "name": "Graphlit",
+    "description": "Ingest anything from Slack to Gmail to podcast feeds, in addition to web crawling, into a searchable [Graphlit](https://www.graphlit.com) project",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/graphlit/graphlit-mcp-server",
+    "logo": "https://framerusercontent.com/images/KCOWBYLKunDff1Dr452y6EfjiU.png",
+    "github": "https://github.com/graphlit/graphlit-mcp-server",
+    "approved": true,
+    "githubStars": 180
+  },
+  {
+    "id": "greptimedb",
+    "name": "GreptimeDB",
+    "description": "Provides AI assistants with a secure and structured way to explore and analyze data in [GreptimeDB](https://github.com/GreptimeTeam/greptimedb)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GreptimeTeam/greptimedb-mcp-server",
+    "logo": "https://greptime.com/favicon.ico",
+    "github": "https://github.com/GreptimeTeam/greptimedb-mcp-server",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "heroku",
+    "name": "Heroku",
+    "description": "Interact with the Heroku Platform through LLM-driven tools for managing apps, add-ons, dynos, databases, and more",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/heroku/heroku-mcp-server",
+    "logo": "https://www.herokucdn.com/favicons/favicon.ico",
+    "github": "https://github.com/heroku/heroku-mcp-server",
+    "approved": true,
+    "githubStars": 13
+  },
+  {
+    "id": "hologres",
+    "name": "Hologres",
+    "description": "Connect to a [Hologres](https://www.alibabacloud.com/en/product/hologres) instance, get table metadata, query and analyze data",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/aliyun/alibabacloud-hologres-mcp-server",
+    "logo": "https://img.alicdn.com/imgextra/i3/O1CN01d9qrry1i6lTNa2BRa_!!6000000004364-2-tps-218-200.png",
+    "github": "https://github.com/aliyun/alibabacloud-hologres-mcp-server",
+    "approved": true,
+    "githubStars": 14
+  },
+  {
+    "id": "hyperbrowser",
+    "name": "Hyperbrowser",
+    "description": "[Hyperbrowser](https://www.hyperbrowser.ai/) is the next-generation platform empowering AI agents and enabling effortless, scalable browser automation",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/hyperbrowserai/mcp",
+    "logo": "https://hyperbrowser-assets-bucket.s3.us-east-1.amazonaws.com/Hyperbrowser-logo.png",
+    "github": "https://github.com/hyperbrowserai/mcp",
+    "approved": true,
+    "githubStars": 203
+  },
+  {
+    "id": "ibm-wxflows",
+    "name": "IBM wxflows",
+    "description": "Tool platform by IBM to build, test and deploy tools for any data source",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/IBM/wxflows/tree/main/examples/mcp/javascript",
+    "github": "https://github.com/IBM/wxflows/tree/main/examples/mcp/javascript",
+    "approved": true,
+    "githubStars": 73
+  },
+  {
+    "id": "forevervm",
+    "name": "ForeverVM",
+    "description": "Run Python in a code sandbox",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server",
+    "logo": "https://forevervm.com/icon.png",
+    "github": "https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server",
+    "approved": true,
+    "githubStars": 171
+  },
+  {
+    "id": "inbox-zero",
+    "name": "Inbox Zero",
+    "description": "AI personal assistant for email [Inbox Zero](https://www.getinboxzero.com)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server",
+    "logo": "https://www.getinboxzero.com/icon.png",
+    "github": "https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server",
+    "approved": true,
+    "githubStars": 5406
+  },
+  {
+    "id": "inkeep",
+    "name": "Inkeep",
+    "description": "RAG Search over your content powered by [Inkeep](https://inkeep.com)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/inkeep/mcp-server-python",
+    "logo": "https://inkeep.com/favicon.ico",
+    "github": "https://github.com/inkeep/mcp-server-python",
+    "approved": true,
+    "githubStars": 5
+  },
+  {
+    "id": "integration-app",
+    "name": "Integration App",
+    "description": "Interact with any other SaaS applications on behalf of your customers",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/integration-app/mcp-server",
+    "logo": "https://integration.app/favicon.ico",
+    "github": "https://github.com/integration-app/mcp-server",
+    "approved": true,
+    "githubStars": 15
+  },
+  {
+    "id": "jetbrains",
+    "name": "JetBrains",
+    "description": "",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/JetBrains/mcp-jetbrains",
+    "logo": "https://cdn.simpleicons.org/jetbrains",
+    "github": "https://github.com/JetBrains/mcp-jetbrains",
+    "approved": true,
+    "githubStars": 454
+  },
+  {
+    "id": "kagi-search",
+    "name": "Kagi Search",
+    "description": "Search the web using Kagi's search API",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/kagisearch/kagimcp",
+    "logo": "https://kagi.com/favicon.ico",
+    "github": "https://github.com/kagisearch/kagimcp",
+    "approved": true,
+    "githubStars": 57
+  },
+  {
+    "id": "keboola",
+    "name": "Keboola",
+    "description": "Build robust data workflows, integrations, and analytics on a single intuitive platform",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/keboola/keboola-mcp-server",
+    "logo": "https://connection.keboola.com/favicon.ico",
+    "github": "https://github.com/keboola/keboola-mcp-server",
+    "approved": true,
+    "githubStars": 9
+  },
+  {
+    "id": "lara-translate",
+    "name": "Lara Translate",
+    "description": "MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/translated/lara-mcp",
+    "logo": "https://laratranslate.com/favicon.ico",
+    "github": "https://github.com/translated/lara-mcp",
+    "approved": true,
+    "githubStars": 39
+  },
+  {
+    "id": "logfire",
+    "name": "Logfire",
+    "description": "Provides access to OpenTelemetry traces and metrics through Logfire",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/pydantic/logfire-mcp",
+    "logo": "https://logfire.pydantic.dev/favicon.ico",
+    "github": "https://github.com/pydantic/logfire-mcp",
+    "approved": true,
+    "githubStars": 44
+  },
+  {
+    "id": "langfuse-prompt-management",
+    "name": "Langfuse Prompt Management",
+    "description": "Open-source tool for collaborative editing, versioning, evaluating, and releasing prompts",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/langfuse/mcp-server-langfuse",
+    "logo": "https://langfuse.com/favicon.ico",
+    "github": "https://github.com/langfuse/mcp-server-langfuse",
+    "approved": true,
+    "githubStars": 48
+  },
+  {
+    "id": "lingo-dev",
+    "name": "Lingo.dev",
+    "description": "Make your AI agent speak every language on the planet, using [Lingo.dev](https://lingo.dev) Localization Engine",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md",
+    "logo": "https://lingo.dev/favicon.ico",
+    "github": "https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md",
+    "approved": true,
+    "githubStars": 1452
+  },
+  {
+    "id": "mailgun",
+    "name": "Mailgun",
+    "description": "Interact with Mailgun API",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/mailgun/mailgun-mcp-server",
+    "logo": "https://www.mailgun.com/favicon.ico",
+    "github": "https://github.com/mailgun/mailgun-mcp-server",
+    "approved": true,
+    "githubStars": 9
+  },
+  {
+    "id": "make",
+    "name": "Make",
+    "description": "Turn your [Make](https://www.make.com/) scenarios into callable tools for AI assistants",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/integromat/make-mcp-server",
+    "logo": "https://www.make.com/favicon.ico",
+    "github": "https://github.com/integromat/make-mcp-server",
+    "approved": true,
+    "githubStars": 61
+  },
+  {
+    "id": "meilisearch",
+    "name": "Meilisearch",
+    "description": "Interact & query with Meilisearch (Full-text & semantic search API)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/meilisearch/meilisearch-mcp",
+    "logo": "https://www.meilisearch.com/favicon.ico",
+    "github": "https://github.com/meilisearch/meilisearch-mcp",
+    "approved": true,
+    "githubStars": 71
+  },
+  {
+    "id": "metoro",
+    "name": "Metoro",
+    "description": "Query and interact with kubernetes environments monitored by Metoro",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/metoro-io/metoro-mcp-server",
+    "logo": "https://metoro.io/static/images/logos/Metoro.svg",
+    "github": "https://github.com/metoro-io/metoro-mcp-server",
+    "approved": true,
+    "githubStars": 35
+  },
+  {
+    "id": "milvus",
+    "name": "Milvus",
+    "description": "Search, Query and interact with data in your Milvus Vector Database",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/zilliztech/mcp-server-milvus",
+    "logo": "https://milvus.io/favicon-32x32.png",
+    "github": "https://github.com/zilliztech/mcp-server-milvus",
+    "approved": true,
+    "githubStars": 67
+  },
+  {
+    "id": "motherduck",
+    "name": "MotherDuck",
+    "description": "Query and analyze data with MotherDuck and local DuckDB",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/motherduckdb/mcp-server-motherduck",
+    "logo": "https://www.motherduck.com/favicon.ico",
+    "github": "https://github.com/motherduckdb/mcp-server-motherduck",
+    "approved": true,
+    "githubStars": 74
+  },
+  {
+    "id": "needle",
+    "name": "Needle",
+    "description": "Production-ready RAG out of the box to search and retrieve data from your own documents",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/needle-ai/needle-mcp",
+    "logo": "https://needle-ai.com/images/needle-logo-orange-2-rounded.png",
+    "github": "https://github.com/needle-ai/needle-mcp",
+    "approved": true,
+    "githubStars": 32
+  },
+  {
+    "id": "neo4j",
+    "name": "Neo4j",
+    "description": "Neo4j graph database server (schema + read/write-cypher) and separate graph database backed memory",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/neo4j-contrib/mcp-neo4j/",
+    "logo": "https://neo4j.com/favicon.ico",
+    "github": "https://github.com/neo4j-contrib/mcp-neo4j/",
+    "approved": true,
+    "githubStars": 202
+  },
+  {
+    "id": "neon",
+    "name": "Neon",
+    "description": "Interact with the Neon serverless Postgres platform",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/neondatabase/mcp-server-neon",
+    "logo": "https://avatars.githubusercontent.com/u/183852044?s=48&v=4",
+    "github": "https://github.com/neondatabase/mcp-server-neon",
+    "approved": true,
+    "githubStars": 168
+  },
+  {
+    "id": "oceanbase",
+    "name": "OceanBase",
+    "description": "MCP Server for OceanBase database and its tools",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/oceanbase/mcp-oceanbase",
+    "logo": "https://avatars.githubusercontent.com/u/82347605?s=48&v=4",
+    "github": "https://github.com/oceanbase/mcp-oceanbase",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "octagon",
+    "name": "Octagon",
+    "description": "Deliver real-time investment research with extensive private and public market data",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/OctagonAI/octagon-mcp-server",
+    "logo": "https://docs.octagonagents.com/logo.svg",
+    "github": "https://github.com/OctagonAI/octagon-mcp-server",
+    "approved": true,
+    "githubStars": 6
+  },
+  {
+    "id": "oxylabs",
+    "name": "Oxylabs",
+    "description": "Scrape websites with Oxylabs Web API, supporting dynamic rendering and parsing for structured data extraction",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/oxylabs/oxylabs-mcp",
+    "logo": "https://oxylabs.io/favicon.ico",
+    "github": "https://github.com/oxylabs/oxylabs-mcp",
+    "approved": true,
+    "githubStars": 11
+  },
+  {
+    "id": "paddle",
+    "name": "Paddle",
+    "description": "Interact with the Paddle API. Manage product catalog, billing and subscriptions, and reports",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/PaddleHQ/paddle-mcp-server",
+    "logo": "https://developer.paddle.com/favicon.svg",
+    "github": "https://github.com/PaddleHQ/paddle-mcp-server",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "paypal",
+    "name": "PayPal",
+    "description": "PayPal's official MCP server",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": false,
+    "website": "https://mcp.paypal.com",
+    "logo": "https://www.paypalobjects.com/webstatic/icon/favicon.ico",
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity",
+    "description": "An MCP server that connects to Perplexity's Sonar API, enabling real-time web-wide research in conversational AI",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ppl-ai/modelcontextprotocol",
+    "logo": "https://www.perplexity.ai/favicon.ico",
+    "github": "https://github.com/ppl-ai/modelcontextprotocol",
+    "approved": true,
+    "githubStars": 871
+  },
+  {
+    "id": "qdrant",
+    "name": "Qdrant",
+    "description": "Implement semantic memory layer on top of the Qdrant vector search engine",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/qdrant/mcp-server-qdrant/",
+    "logo": "https://qdrant.tech/img/brand-resources-logos/logomark.svg",
+    "github": "https://github.com/qdrant/mcp-server-qdrant/",
+    "approved": true,
+    "githubStars": 418
+  },
+  {
+    "id": "ramp",
+    "name": "Ramp",
+    "description": "Interact with [Ramp](https://ramp.com)'s Developer API to run analysis on your spend and gain insights leveraging LLMs",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ramp-public/ramp-mcp",
+    "logo": "https://www.ramp.com/favicon.ico",
+    "github": "https://github.com/ramp-public/ramp-mcp",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "raygun",
+    "name": "Raygun",
+    "description": "Interact with your crash reporting and real using monitoring data on your Raygun account",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/MindscapeHQ/mcp-server-raygun",
+    "github": "https://github.com/MindscapeHQ/mcp-server-raygun",
+    "approved": true,
+    "githubStars": 9
+  },
+  {
+    "id": "rember",
+    "name": "Rember",
+    "description": "Create spaced repetition flashcards in [Rember](https://rember.com) to remember anything you learn in your chats",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/rember/rember-mcp",
+    "logo": "https://www.rember.com/favicon.ico",
+    "github": "https://github.com/rember/rember-mcp",
+    "approved": true,
+    "githubStars": 25
+  },
+  {
+    "id": "riza",
+    "name": "Riza",
+    "description": "Arbitrary code execution and tool-use platform for LLMs by [Riza](https://riza.io)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/riza-io/riza-mcp",
+    "logo": "https://riza.io/favicon.ico",
+    "github": "https://github.com/riza-io/riza-mcp",
+    "approved": true,
+    "githubStars": 8
+  },
+  {
+    "id": "search1api",
+    "name": "Search1API",
+    "description": "One API for Search, Crawling, and Sitemaps",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/fatwang2/search1api-mcp",
+    "logo": "https://pics.fatwang2.com/56912e614b35093426c515860f9f2234.svg",
+    "github": "https://github.com/fatwang2/search1api-mcp",
+    "approved": true,
+    "githubStars": 113
+  },
+  {
+    "id": "screenshotone",
+    "name": "ScreenshotOne",
+    "description": "Render website screenshots with [ScreenshotOne](https://screenshotone.com/)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/screenshotone/mcp/",
+    "logo": "https://screenshotone.com/favicon.ico",
+    "github": "https://github.com/screenshotone/mcp/",
+    "approved": true,
+    "githubStars": 13
+  },
+  {
+    "id": "semgrep",
+    "name": "Semgrep",
+    "description": "Enable AI agents to secure code with [Semgrep](https://semgrep.dev/)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/semgrep/mcp",
+    "logo": "https://semgrep.dev/favicon.ico",
+    "github": "https://github.com/semgrep/mcp",
+    "approved": true,
+    "githubStars": 80
+  },
+  {
+    "id": "singlestore",
+    "name": "SingleStore",
+    "description": "Interact with the SingleStore database platform",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/singlestore-labs/mcp-server-singlestore",
+    "logo": "https://www.singlestore.com/favicon-32x32.png?v=277b9cbbe31e8bc416504cf3b902d430",
+    "github": "https://github.com/singlestore-labs/mcp-server-singlestore",
+    "approved": true,
+    "githubStars": 9
+  },
+  {
+    "id": "starrocks",
+    "name": "StarRocks",
+    "description": "Interact with [StarRocks](https://www.starrocks.io/)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/StarRocks/mcp-server-starrocks",
+    "logo": "https://www.starrocks.io/favicon.ico",
+    "github": "https://github.com/StarRocks/mcp-server-starrocks",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "stripe",
+    "name": "Stripe",
+    "description": "Interact with Stripe API",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/stripe/agent-toolkit",
+    "logo": "https://stripe.com/favicon.ico",
+    "github": "https://github.com/stripe/agent-toolkit",
+    "approved": true,
+    "githubStars": 634
+  },
+  {
+    "id": "tavily",
+    "name": "Tavily",
+    "description": "Search engine for AI agents (search + extract) powered by [Tavily](https://tavily.com/)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/tavily-ai/tavily-mcp",
+    "logo": "https://tavily.com/favicon.ico",
+    "github": "https://github.com/tavily-ai/tavily-mcp",
+    "approved": true,
+    "githubStars": 252
+  },
+  {
+    "id": "thirdweb",
+    "name": "Thirdweb",
+    "description": "Read/write to over 2k blockchains, enabling data querying, contract analysis/deployment, and transaction execution, powered by [Thirdweb](https://thirdweb.com/)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/thirdweb-dev/ai/tree/main/python/thirdweb-mcp",
+    "logo": "https://thirdweb.com/favicon.ico",
+    "github": "https://github.com/thirdweb-dev/ai/tree/main/python/thirdweb-mcp",
+    "approved": true,
+    "githubStars": 9
+  },
+  {
+    "id": "tinybird",
+    "name": "Tinybird",
+    "description": "Interact with Tinybird serverless ClickHouse platform",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/tinybirdco/mcp-tinybird",
+    "logo": "https://www.tinybird.co/favicon.ico",
+    "github": "https://github.com/tinybirdco/mcp-tinybird",
+    "approved": true,
+    "githubStars": 56
+  },
+  {
+    "id": "unifai",
+    "name": "UnifAI",
+    "description": "Dynamically search and call tools using [UnifAI Network](https://unifai.network)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/unifai-network/unifai-mcp-server",
+    "logo": "https://unifai.network/favicon.ico",
+    "github": "https://github.com/unifai-network/unifai-mcp-server",
+    "approved": true,
+    "githubStars": 2
+  },
+  {
+    "id": "unstructured",
+    "name": "Unstructured",
+    "description": "Set up and interact with your unstructured data processing workflows in [Unstructured Platform](https://unstructured.io)",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Unstructured-IO/UNS-MCP",
+    "logo": "https://framerusercontent.com/images/plcQevjrOYnyriuGw90NfQBPoQ.jpg",
+    "github": "https://github.com/Unstructured-IO/UNS-MCP",
+    "approved": true,
+    "githubStars": 21
+  },
+  {
+    "id": "vectorize",
+    "name": "Vectorize",
+    "description": "[Vectorize](https://vectorize.io) MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/vectorize-io/vectorize-mcp-server/",
+    "github": "https://github.com/vectorize-io/vectorize-mcp-server/",
+    "approved": true,
+    "githubStars": 38
+  },
+  {
+    "id": "verodat",
+    "name": "Verodat",
+    "description": "Interact with Verodat AI Ready Data platform",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Verodat/verodat-mcp-server",
+    "logo": "https://verodat.io/assets/favicon-16x16.png",
+    "github": "https://github.com/Verodat/verodat-mcp-server",
+    "approved": true,
+    "githubStars": 1
+  },
+  {
+    "id": "veyrax",
+    "name": "VeyraX",
+    "description": "Single tool to control all 100+ API integrations, and UI components",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/VeyraX/veyrax-mcp",
+    "logo": "https://www.veyrax.com/favicon.ico",
+    "github": "https://github.com/VeyraX/veyrax-mcp",
+    "approved": true,
+    "githubStars": 22
+  },
+  {
+    "id": "xero",
+    "name": "Xero",
+    "description": "Interact with the accounting data in your business using our official MCP server",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/XeroAPI/xero-mcp-server",
+    "logo": "https://www.xero.com/favicon.ico",
+    "github": "https://github.com/XeroAPI/xero-mcp-server",
+    "approved": true,
+    "githubStars": 37
+  },
+  {
+    "id": "zapier",
+    "name": "Zapier",
+    "description": "Connect your AI Agents to 8,000 apps instantly",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": false,
+    "website": "https://zapier.com/mcp",
+    "logo": "https://cdn.zapier.com/zapier/images/favicon.ico",
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "zenml",
+    "name": "ZenML",
+    "description": "Interact with your MLOps and LLMOps pipelines through your [ZenML](https://www.zenml.io) MCP server",
+    "category": [
+      "Official Integrations"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/zenml-io/mcp-zenml",
+    "github": "https://github.com/zenml-io/mcp-zenml",
+    "approved": true,
+    "githubStars": 16
+  },
+  {
+    "id": "ableton-live",
+    "name": "Ableton Live",
+    "description": "an MCP server to control Ableton Live",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Simon-Kansara/ableton-live-mcp-server",
+    "github": "https://github.com/Simon-Kansara/ableton-live-mcp-server",
+    "approved": true,
+    "githubStars": 194
+  },
+  {
+    "id": "airbnb",
+    "name": "Airbnb",
+    "description": "Provides tools to search Airbnb and get listing details",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/openbnb-org/mcp-server-airbnb",
+    "github": "https://github.com/openbnb-org/mcp-server-airbnb",
+    "approved": true,
+    "githubStars": 71
+  },
+  {
+    "id": "ai-agent-marketplace-index",
+    "name": "AI Agent Marketplace Index",
+    "description": "MCP server to search more than 5000+ AI agents and tools of various categories from [AI Agent Marketplace Index](http://www.deepnlp.org/store/ai-agent) and monitor traffic of AI Agents",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/AI-Agent-Hub/ai-agent-marketplace-index-mcp",
+    "github": "https://github.com/AI-Agent-Hub/ai-agent-marketplace-index-mcp",
+    "approved": true,
+    "githubStars": 5
+  },
+  {
+    "id": "algorand",
+    "name": "Algorand",
+    "description": "A comprehensive MCP server for tooling interactions (40+) and resource accessibility (60+) plus many useful prompts for interacting with the Algorand blockchain",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GoPlausible/algorand-mcp",
+    "github": "https://github.com/GoPlausible/algorand-mcp",
+    "approved": true,
+    "githubStars": 24
+  },
+  {
+    "id": "airflow",
+    "name": "Airflow",
+    "description": "A MCP Server that connects to [Apache Airflow](https://airflow.apache.org/) using official python client",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/yangkyeongmo/mcp-server-apache-airflow",
+    "github": "https://github.com/yangkyeongmo/mcp-server-apache-airflow",
+    "approved": true,
+    "githubStars": 17
+  },
+  {
+    "id": "airtable",
+    "name": "Airtable",
+    "description": "Read and write access to [Airtable](https://airtable.com/) databases, with schema inspection",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/domdomegg/airtable-mcp-server",
+    "github": "https://github.com/domdomegg/airtable-mcp-server",
+    "approved": true,
+    "githubStars": 103
+  },
+  {
+    "id": "airtable-2",
+    "name": "Airtable",
+    "description": "Airtable Model Context Protocol Server",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/felores/airtable-mcp",
+    "github": "https://github.com/felores/airtable-mcp",
+    "approved": true,
+    "githubStars": 29
+  },
+  {
+    "id": "alphavantage",
+    "name": "AlphaVantage",
+    "description": "MCP server for stock market data API [AlphaVantage](https://www.alphavantage.co)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/calvernaz/alphavantage",
+    "github": "https://github.com/calvernaz/alphavantage",
+    "approved": true,
+    "githubStars": 27
+  },
+  {
+    "id": "anki",
+    "name": "Anki",
+    "description": "An MCP server for interacting with your [Anki](https://apps.ankiweb.net) decks and cards",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/scorzeth/anki-mcp-server",
+    "github": "https://github.com/scorzeth/anki-mcp-server",
+    "approved": true,
+    "githubStars": 74
+  },
+  {
+    "id": "any-chat-completions",
+    "name": "Any Chat Completions",
+    "description": "Interact with any OpenAI SDK Compatible Chat Completions API like OpenAI, Perplexity, Groq, xAI and many more",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/pyroprompts/any-chat-completions-mcp",
+    "github": "https://github.com/pyroprompts/any-chat-completions-mcp",
+    "approved": true,
+    "githubStars": 98
+  },
+  {
+    "id": "apple-calendar",
+    "name": "Apple Calendar",
+    "description": "An MCP server that allows you to interact with your MacOS Calendar through natural language, including features such as event creation, modification, schedule listing, finding free time slots etc",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Omar-v2/mcp-ical",
+    "github": "https://github.com/Omar-v2/mcp-ical",
+    "approved": true,
+    "githubStars": 49
+  },
+  {
+    "id": "arangodb",
+    "name": "ArangoDB",
+    "description": "MCP Server that provides database interaction capabilities through [ArangoDB](https://arangodb.com/)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ravenwits/mcp-server-arangodb",
+    "github": "https://github.com/ravenwits/mcp-server-arangodb",
+    "approved": true,
+    "githubStars": 14
+  },
+  {
+    "id": "arduino",
+    "name": "Arduino",
+    "description": "MCP Server that enables AI-powered robotics using Claude AI and Arduino (ESP32) for real-world automation and interaction with robots",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/vishalmysore/choturobo",
+    "github": "https://github.com/vishalmysore/choturobo",
+    "approved": true,
+    "githubStars": 19
+  },
+  {
+    "id": "atlassian",
+    "name": "Atlassian",
+    "description": "Interact with Atlassian Cloud products (Confluence and Jira) including searching/reading Confluence spaces/pages, accessing Jira issues, and project metadata",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/sooperset/mcp-atlassian",
+    "github": "https://github.com/sooperset/mcp-atlassian",
+    "approved": true,
+    "githubStars": 817
+  },
+  {
+    "id": "attestable-mcp",
+    "name": "Attestable MCP",
+    "description": "An MCP server running inside a trusted execution environment (TEE) via Gramine, showcasing remote attestation using [RA-TLS](https://gramine.readthedocs.io/en/stable/attestation.html). This allows an MCP client to verify the server before conencting",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/co-browser/attestable-mcp-server",
+    "github": "https://github.com/co-browser/attestable-mcp-server",
+    "approved": true,
+    "githubStars": 5
+  },
+  {
+    "id": "aws",
+    "name": "AWS",
+    "description": "Perform operations on your AWS resources using an LLM",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/rishikavikondala/mcp-server-aws",
+    "github": "https://github.com/rishikavikondala/mcp-server-aws",
+    "approved": true,
+    "githubStars": 94
+  },
+  {
+    "id": "aws-athena",
+    "name": "AWS Athena",
+    "description": "A MCP server for AWS Athena to run SQL queries on Glue Catalog",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/lishenxydlgzs/aws-athena-mcp",
+    "github": "https://github.com/lishenxydlgzs/aws-athena-mcp",
+    "approved": true,
+    "githubStars": 7
+  },
+  {
+    "id": "aws-cost-explorer",
+    "name": "AWS Cost Explorer",
+    "description": "Optimize your AWS spend (including Amazon Bedrock spend) with this MCP server by examining spend across regions, services, instance types and foundation models ([demo video](https://www.youtube.com/watch?v=WuVOmYLRFmI&feature=youtu.be))",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/aarora79/aws-cost-explorer-mcp-server",
+    "github": "https://github.com/aarora79/aws-cost-explorer-mcp-server",
+    "approved": true,
+    "githubStars": 78
+  },
+  {
+    "id": "aws-resources-operations",
+    "name": "AWS Resources Operations",
+    "description": "Run generated python code to securely query or modify any AWS resources supported by boto3",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/baryhuang/mcp-server-aws-resources-python",
+    "github": "https://github.com/baryhuang/mcp-server-aws-resources-python",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "aws-s3",
+    "name": "AWS S3",
+    "description": "A sample MCP server for AWS S3 that flexibly fetches objects from S3 such as PDF documents",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/aws-samples/sample-mcp-server-s3",
+    "github": "https://github.com/aws-samples/sample-mcp-server-s3",
+    "approved": true,
+    "githubStars": 29
+  },
+  {
+    "id": "azure-adx",
+    "name": "Azure ADX",
+    "description": "Query and analyze Azure Data Explorer databases",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/pab1it0/adx-mcp-server",
+    "github": "https://github.com/pab1it0/adx-mcp-server",
+    "approved": true,
+    "githubStars": 18
+  },
+  {
+    "id": "azure-devops",
+    "name": "Azure DevOps",
+    "description": "An MCP server that provides a bridge to Azure DevOps services, enabling AI assistants to query and manage work items",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Vortiago/mcp-azure-devops",
+    "github": "https://github.com/Vortiago/mcp-azure-devops",
+    "approved": true,
+    "githubStars": 17
+  },
+  {
+    "id": "baidu-ai-search",
+    "name": "Baidu AI Search",
+    "description": "Web search with Baidu Cloud's AI Search",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/baidubce/app-builder/tree/master/python/mcp_server/ai_search",
+    "github": "https://github.com/baidubce/app-builder/tree/master/python/mcp_server/ai_search",
+    "approved": true,
+    "githubStars": 512
+  },
+  {
+    "id": "base-free-usdc-transfer",
+    "name": "Base Free USDC Transfer",
+    "description": "Send USDC on [Base](https://base.org) for free using Claude AI! Built with [Coinbase CDP](https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/magnetai/mcp-free-usdc-transfer",
+    "github": "https://github.com/magnetai/mcp-free-usdc-transfer",
+    "approved": true,
+    "githubStars": 13
+  },
+  {
+    "id": "basic-memory",
+    "name": "Basic Memory",
+    "description": "Local-first knowledge management system that builds a semantic graph from Markdown files, enabling persistent memory across conversations with LLMs",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/basicmachines-co/basic-memory",
+    "github": "https://github.com/basicmachines-co/basic-memory",
+    "approved": true,
+    "githubStars": 455
+  },
+  {
+    "id": "bigquery",
+    "name": "BigQuery",
+    "description": "This server enables LLMs to inspect database schemas and execute queries on BigQuery",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/LucasHild/mcp-server-bigquery",
+    "github": "https://github.com/LucasHild/mcp-server-bigquery",
+    "approved": true,
+    "githubStars": 56
+  },
+  {
+    "id": "bigquery-2",
+    "name": "BigQuery",
+    "description": "Server implementation for Google BigQuery integration that enables direct BigQuery database access and querying capabilities",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ergut/mcp-bigquery-server",
+    "github": "https://github.com/ergut/mcp-bigquery-server",
+    "approved": true,
+    "githubStars": 43
+  },
+  {
+    "id": "bing-web-search-api",
+    "name": "Bing Web Search API",
+    "description": "Server implementation for Microsoft Bing Web Search API",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/leehanchung/bing-search-mcp",
+    "github": "https://github.com/leehanchung/bing-search-mcp",
+    "approved": true,
+    "githubStars": 22
+  },
+  {
+    "id": "bitable-mcp",
+    "name": "Bitable MCP",
+    "description": "MCP server provides access to Lark Bitable through the Model Context Protocol. It allows users to interact with Bitable tables using predefined tools",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/lloydzhou/bitable-mcp",
+    "github": "https://github.com/lloydzhou/bitable-mcp",
+    "approved": true,
+    "githubStars": 2
+  },
+  {
+    "id": "blender",
+    "name": "Blender",
+    "description": "Blender integration allowing prompt enabled 3D scene creation, modeling and manipulation",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ahujasid/blender-mcp",
+    "github": "https://github.com/ahujasid/blender-mcp",
+    "approved": true,
+    "githubStars": 9784
+  },
+  {
+    "id": "browser-use",
+    "name": "browser-use",
+    "description": "browser-use MCP server with dockerized playwright + chromium + vnc. supports stdio & resumable http",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/co-browser/browser-use-mcp-server",
+    "github": "https://github.com/co-browser/browser-use-mcp-server",
+    "approved": true,
+    "githubStars": 253
+  },
+  {
+    "id": "bsc-mcp",
+    "name": "Bsc-mcp",
+    "description": "",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/TermiX-official/bsc-mcp",
+    "github": "https://github.com/TermiX-official/bsc-mcp",
+    "approved": true,
+    "githubStars": 67
+  },
+  {
+    "id": "calculator",
+    "name": "Calculator",
+    "description": "This server enables LLMs to use calculator for precise numerical calculations",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/githejie/mcp-server-calculator",
+    "github": "https://github.com/githejie/mcp-server-calculator",
+    "approved": true,
+    "githubStars": 21
+  },
+  {
+    "id": "cfbd-api",
+    "name": "CFBD API",
+    "description": "An MCP server for the [College Football Data API](https://collegefootballdata.com/)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/lenwood/cfbd-mcp-server",
+    "github": "https://github.com/lenwood/cfbd-mcp-server",
+    "approved": true,
+    "githubStars": 9
+  },
+  {
+    "id": "chatmcp",
+    "name": "ChatMCP",
+    "description": "",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/AI-QL/chat-mcp",
+    "github": "https://github.com/AI-QL/chat-mcp",
+    "approved": true,
+    "githubStars": 157
+  },
+  {
+    "id": "chatsum",
+    "name": "ChatSum",
+    "description": "Query and Summarize chat messages with LLM. by [mcpso](https://mcp.so)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/mcpso/mcp-server-chatsum",
+    "github": "https://github.com/mcpso/mcp-server-chatsum",
+    "approved": true,
+    "githubStars": 881
+  },
+  {
+    "id": "chroma-2",
+    "name": "Chroma",
+    "description": "Vector database server for semantic document search and metadata filtering, built on Chroma",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/privetin/chroma",
+    "github": "https://github.com/privetin/chroma",
+    "approved": true,
+    "githubStars": 25
+  },
+  {
+    "id": "claudepost",
+    "name": "ClaudePost",
+    "description": "ClaudePost enables seamless email management for Gmail, offering secure features like email search, reading, and sending",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ZilongXue/claude-post",
+    "github": "https://github.com/ZilongXue/claude-post",
+    "approved": true,
+    "githubStars": 57
+  },
+  {
+    "id": "cloudinary",
+    "name": "Cloudinary",
+    "description": "Cloudinary Model Context Protocol Server to upload media to Cloudinary and get back the media link and details",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/felores/cloudinary-mcp-server",
+    "github": "https://github.com/felores/cloudinary-mcp-server",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "code-assistant",
+    "name": "code-assistant",
+    "description": "A coding assistant MCP server that allows to explore a code-base and make changes to code. Should be used with trusted repos only (insufficient protection against prompt injections)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/stippi/code-assistant",
+    "github": "https://github.com/stippi/code-assistant",
+    "approved": true,
+    "githubStars": 25
+  },
+  {
+    "id": "code-executor",
+    "name": "code-executor",
+    "description": "An MCP server that allows LLMs to execute Python code within a specified Conda environment",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/bazinga012/mcp_code_executor",
+    "github": "https://github.com/bazinga012/mcp_code_executor",
+    "approved": true,
+    "githubStars": 44
+  },
+  {
+    "id": "code-sandbox-mcp",
+    "name": "code-sandbox-mcp",
+    "description": "An MCP server to create secure code sandbox environment for executing code within Docker containers",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Automata-Labs-team/code-sandbox-mcp",
+    "github": "https://github.com/Automata-Labs-team/code-sandbox-mcp",
+    "approved": true,
+    "githubStars": 106
+  },
+  {
+    "id": "cognee-mcp",
+    "name": "cognee-mcp",
+    "description": "GraphRAG memory server with customizable ingestion, data processing and search",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/topoteretes/cognee/tree/main/cognee-mcp",
+    "github": "https://github.com/topoteretes/cognee/tree/main/cognee-mcp",
+    "approved": true,
+    "githubStars": 1868
+  },
+  {
+    "id": "coin-api-mcp",
+    "name": "coin_api_mcp",
+    "description": "Provides access to [coinmarketcap](https://coinmarketcap.com/) cryptocurrency data",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/longmans/coin_api_mcp",
+    "github": "https://github.com/longmans/coin_api_mcp",
+    "approved": true,
+    "githubStars": 19
+  },
+  {
+    "id": "contentful-mcp",
+    "name": "Contentful-mcp",
+    "description": "Read, update, delete, publish content in your [Contentful](https://contentful.com) space(s) from this MCP Server",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ivo-toby/contentful-mcp",
+    "github": "https://github.com/ivo-toby/contentful-mcp",
+    "approved": true,
+    "githubStars": 22
+  },
+  {
+    "id": "crypto-feargreed-mcp",
+    "name": "crypto-feargreed-mcp",
+    "description": "Providing real-time and historical Crypto Fear & Greed Index data",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/kukapay/crypto-feargreed-mcp",
+    "github": "https://github.com/kukapay/crypto-feargreed-mcp",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "cryptopanic-mcp-server",
+    "name": "cryptopanic-mcp-server",
+    "description": "Providing latest cryptocurrency news to AI agents, powered by CryptoPanic",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/kukapay/cryptopanic-mcp-server",
+    "github": "https://github.com/kukapay/cryptopanic-mcp-server",
+    "approved": true,
+    "githubStars": 17
+  },
+  {
+    "id": "dappier",
+    "name": "Dappier",
+    "description": "Connect LLMs to real-time, rights-cleared, proprietary data from trusted sources. Access specialized models for Real-Time Web Search, News, Sports, Financial Data, Crypto, and premium publisher content. Explore data models at [marketplace.dappier.com](https://marketplace.dappier.com/marketplace)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/DappierAI/dappier-mcp",
+    "github": "https://github.com/DappierAI/dappier-mcp",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "databricks",
+    "name": "Databricks",
+    "description": "Allows LLMs to run SQL queries, list and get details of jobs executions in a Databricks account",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/JordiNeil/mcp-databricks-server",
+    "github": "https://github.com/JordiNeil/mcp-databricks-server",
+    "approved": true,
+    "githubStars": 16
+  },
+  {
+    "id": "datadog",
+    "name": "Datadog",
+    "description": "Datadog MCP Server for application tracing, monitoring, dashboard, incidents queries built on official datadog api",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GeLi2001/datadog-mcp-server",
+    "github": "https://github.com/GeLi2001/datadog-mcp-server",
+    "approved": true,
+    "githubStars": 6
+  },
+  {
+    "id": "data-exploration",
+    "name": "Data Exploration",
+    "description": "MCP server for autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort. NOTE: Will execute arbitrary Python code on your machine, please use with caution!",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/reading-plus-ai/mcp-server-data-exploration",
+    "github": "https://github.com/reading-plus-ai/mcp-server-data-exploration",
+    "approved": true,
+    "githubStars": 245
+  },
+  {
+    "id": "dataset-viewer",
+    "name": "Dataset Viewer",
+    "description": "Browse and analyze Hugging Face datasets with features like search, filtering, statistics, and data export",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/privetin/dataset-viewer",
+    "github": "https://github.com/privetin/dataset-viewer",
+    "approved": true,
+    "githubStars": 11
+  },
+  {
+    "id": "dbhub",
+    "name": "DBHub",
+    "description": "Universal database MCP server connecting to MySQL, PostgreSQL, SQLite, DuckDB and etc",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/bytebase/dbhub/",
+    "github": "https://github.com/bytebase/dbhub/",
+    "approved": true,
+    "githubStars": 191
+  },
+  {
+    "id": "deepseek-mcp-server",
+    "name": "DeepSeek MCP Server",
+    "description": "Model Context Protocol server integrating DeepSeek's advanced language models, in addition to [other useful API endpoints](https://github.com/DMontgomery40/deepseek-mcp-server?tab=readme-ov-file#features)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/DMontgomery40/deepseek-mcp-server",
+    "github": "https://github.com/DMontgomery40/deepseek-mcp-server",
+    "approved": true,
+    "githubStars": 187
+  },
+  {
+    "id": "deepseek-r1",
+    "name": "Deepseek_R1",
+    "description": "A Model Context Protocol (MCP) server implementation connecting Claude Desktop with DeepSeek's language models (R1/V3)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/66julienmartin/MCP-server-Deepseek_R1",
+    "github": "https://github.com/66julienmartin/MCP-server-Deepseek_R1",
+    "approved": true,
+    "githubStars": 50
+  },
+  {
+    "id": "deepseek-thinker-mcp",
+    "name": "deepseek-thinker-mcp",
+    "description": "A MCP (Model Context Protocol) provider Deepseek reasoning content to MCP-enabled AI Clients, like Claude Desktop. Supports access to Deepseek's thought processes from the Deepseek API service or from a local Ollama server",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ruixingshi/deepseek-thinker-mcp",
+    "github": "https://github.com/ruixingshi/deepseek-thinker-mcp",
+    "approved": true,
+    "githubStars": 37
+  },
+  {
+    "id": "descope",
+    "name": "Descope",
+    "description": "An MCP server to integrate with [Descope](https://descope.com) to search audit logs, manage users, and more",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/descope-sample-apps/descope-mcp-server",
+    "github": "https://github.com/descope-sample-apps/descope-mcp-server",
+    "approved": true,
+    "githubStars": 3
+  },
+  {
+    "id": "devrev",
+    "name": "DevRev",
+    "description": "An MCP server to integrate with DevRev APIs to search through your DevRev Knowledge Graph where objects can be imported from diff. sources listed [here](https://devrev.ai/docs/import#available-sources)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/kpsunil97/devrev-mcp-server",
+    "github": "https://github.com/kpsunil97/devrev-mcp-server",
+    "approved": true,
+    "githubStars": 2
+  },
+  {
+    "id": "dicom",
+    "name": "Dicom",
+    "description": "An MCP server to query and retrieve medical images and for parsing and reading dicom-encapsulated documents (pdf etc.)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ChristianHinge/dicom-mcp",
+    "github": "https://github.com/ChristianHinge/dicom-mcp",
+    "approved": true,
+    "githubStars": 20
+  },
+  {
+    "id": "dify",
+    "name": "Dify",
+    "description": "A simple implementation of an MCP server for dify workflows",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/YanxingLiu/dify-mcp-server",
+    "github": "https://github.com/YanxingLiu/dify-mcp-server",
+    "approved": true,
+    "githubStars": 181
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "description": "A MCP server to connect to Discord guilds through a bot and read and write messages in channels",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/v-3/discordmcp",
+    "github": "https://github.com/v-3/discordmcp",
+    "approved": true,
+    "githubStars": 54
+  },
+  {
+    "id": "discord-2",
+    "name": "Discord",
+    "description": "A MCP server, which connects to Discord through a bot, and provides comprehensive integration with Discord",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/SaseQ/discord-mcp",
+    "github": "https://github.com/SaseQ/discord-mcp",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "discourse",
+    "name": "Discourse",
+    "description": "A MCP server to search Discourse posts on a Discourse forum",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/AshDevFr/discourse-mcp-server",
+    "github": "https://github.com/AshDevFr/discourse-mcp-server",
+    "approved": true,
+    "githubStars": 3
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "description": "Integrate with Docker to manage containers, images, volumes, and networks",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ckreiling/mcp-server-docker",
+    "github": "https://github.com/ckreiling/mcp-server-docker",
+    "approved": true,
+    "githubStars": 268
+  },
+  {
+    "id": "drupal",
+    "name": "Drupal",
+    "description": "Server for interacting with [Drupal](https://www.drupal.org/project/mcp) using STDIO transport layer",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Omedia/mcp-server-drupal",
+    "github": "https://github.com/Omedia/mcp-server-drupal",
+    "approved": true,
+    "githubStars": 33
+  },
+  {
+    "id": "dune-analytics-mcp",
+    "name": "dune-analytics-mcp",
+    "description": "A mcp server that bridges Dune Analytics data to AI agents",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/kukapay/dune-analytics-mcp",
+    "github": "https://github.com/kukapay/dune-analytics-mcp",
+    "approved": true,
+    "githubStars": 14
+  },
+  {
+    "id": "edgeone-pages-mcp",
+    "name": "EdgeOne Pages MCP",
+    "description": "An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/TencentEdgeOne/edgeone-pages-mcp",
+    "github": "https://github.com/TencentEdgeOne/edgeone-pages-mcp",
+    "approved": true,
+    "githubStars": 13
+  },
+  {
+    "id": "elasticsearch-2",
+    "name": "Elasticsearch",
+    "description": "MCP server implementation that provides Elasticsearch interaction",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/cr7258/elasticsearch-mcp-server",
+    "github": "https://github.com/cr7258/elasticsearch-mcp-server",
+    "approved": true,
+    "githubStars": 91
+  },
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "description": "A server that integrates with ElevenLabs text-to-speech API capable of generating full voiceovers with multiple voices",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/mamertofabian/elevenlabs-mcp-server",
+    "github": "https://github.com/mamertofabian/elevenlabs-mcp-server",
+    "approved": true,
+    "githubStars": 70
+  },
+  {
+    "id": "ergo-blockchain-mcp",
+    "name": "Ergo Blockchain MCP",
+    "description": "",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/marctheshark3/ergo-mcp",
+    "github": "https://github.com/marctheshark3/ergo-mcp",
+    "approved": true,
+    "githubStars": 5
+  },
+  {
+    "id": "eunomia",
+    "name": "Eunomia",
+    "description": "Extension of the Eunomia framework that connects Eunomia instruments with MCP servers",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/whataboutyou-ai/eunomia-MCP-server",
+    "github": "https://github.com/whataboutyou-ai/eunomia-MCP-server",
+    "approved": true,
+    "githubStars": 5
+  },
+  {
+    "id": "evm-mcp-server",
+    "name": "EVM MCP Server",
+    "description": "Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/mcpdotdirect/evm-mcp-server",
+    "github": "https://github.com/mcpdotdirect/evm-mcp-server",
+    "approved": true,
+    "githubStars": 173
+  },
+  {
+    "id": "everything-search",
+    "name": "Everything Search",
+    "description": "Fast file searching capabilities across Windows (using [Everything SDK](https://www.voidtools.com/support/everything/sdk/)), macOS (using mdfind command), and Linux (using locate/plocate command)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/mamertofabian/mcp-everything-search",
+    "github": "https://github.com/mamertofabian/mcp-everything-search",
+    "approved": true,
+    "githubStars": 113
+  },
+  {
+    "id": "excel",
+    "name": "Excel",
+    "description": "Excel manipulation including data reading/writing, worksheet management, formatting, charts, and pivot table",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/haris-musa/excel-mcp-server",
+    "github": "https://github.com/haris-musa/excel-mcp-server",
+    "approved": true,
+    "githubStars": 220
+  },
+  {
+    "id": "fantasy-pl",
+    "name": "Fantasy PL",
+    "description": "Give your coding agent direct access to up-to date Fantasy Premier League data",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/rishijatia/fantasy-pl-mcp",
+    "github": "https://github.com/rishijatia/fantasy-pl-mcp",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "fastn-ai-unified-api-mcp-server",
+    "name": "fastn.ai – Unified API MCP Server",
+    "description": "A remote, dynamic MCP server with a unified API that connects to 1,000+ tools, actions, and workflows, featuring built-in authentication and monitoring",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/fastnai/mcp-fastn",
+    "github": "https://github.com/fastnai/mcp-fastn",
+    "approved": true,
+    "githubStars": 7
+  },
+  {
+    "id": "fetch-2",
+    "name": "Fetch",
+    "description": "A server that flexibly fetches HTML, JSON, Markdown, or plaintext",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/zcaceres/fetch-mcp",
+    "github": "https://github.com/zcaceres/fetch-mcp",
+    "approved": true,
+    "githubStars": 251
+  },
+  {
+    "id": "fingertip",
+    "name": "Fingertip",
+    "description": "MCP server for Fingertip.com to search and create new sites",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/fingertip-com/fingertip-mcp",
+    "github": "https://github.com/fingertip-com/fingertip-mcp",
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "description": "Give your coding agent direct access to Figma file data, helping it one-shot design implementation",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GLips/Figma-Context-MCP",
+    "github": "https://github.com/GLips/Figma-Context-MCP",
+    "approved": true,
+    "githubStars": 4826
+  },
+  {
+    "id": "firebase",
+    "name": "Firebase",
+    "description": "Server to interact with Firebase services including Firebase Authentication, Firestore, and Firebase Storage",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/gannonh/firebase-mcp",
+    "github": "https://github.com/gannonh/firebase-mcp",
+    "approved": true,
+    "githubStars": 67
+  },
+  {
+    "id": "firecrawl-2",
+    "name": "FireCrawl",
+    "description": "Advanced web scraping with JavaScript rendering, PDF support, and smart rate limiting",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/vrknetha/mcp-server-firecrawl",
+    "github": "https://github.com/vrknetha/mcp-server-firecrawl",
+    "approved": true,
+    "githubStars": 2371
+  },
+  {
+    "id": "flightradar24",
+    "name": "FlightRadar24",
+    "description": "A Claude Desktop MCP server that helps you track flights in real-time using Flightradar24 data",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/sunsetcoder/flightradar24-mcp-server",
+    "github": "https://github.com/sunsetcoder/flightradar24-mcp-server",
+    "approved": true,
+    "githubStars": 19
+  },
+  {
+    "id": "ghost",
+    "name": "Ghost",
+    "description": "A Model Context Protocol (MCP) server for interacting with Ghost CMS through LLM interfaces like Claude",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/MFYDev/ghost-mcp",
+    "github": "https://github.com/MFYDev/ghost-mcp",
+    "approved": true,
+    "githubStars": 34
+  },
+  {
+    "id": "github-actions",
+    "name": "Github Actions",
+    "description": "A Model Context Protocol (MCP) server for interacting with Github Actions",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ko1ynnky/github-actions-mcp-server",
+    "github": "https://github.com/ko1ynnky/github-actions-mcp-server",
+    "approved": true,
+    "githubStars": 16
+  },
+  {
+    "id": "glean",
+    "name": "Glean",
+    "description": "A server that uses Glean API to search and chat",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/longyi1207/glean-mcp-server",
+    "github": "https://github.com/longyi1207/glean-mcp-server",
+    "approved": true,
+    "githubStars": 6
+  },
+  {
+    "id": "gmail",
+    "name": "Gmail",
+    "description": "A Model Context Protocol (MCP) server for Gmail integration in Claude Desktop with auto authentication support",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GongRzhe/Gmail-MCP-Server",
+    "github": "https://github.com/GongRzhe/Gmail-MCP-Server",
+    "approved": true,
+    "githubStars": 141
+  },
+  {
+    "id": "gmail-headless",
+    "name": "Gmail Headless",
+    "description": "Remote hostable MCP server that can get and send Gmail messages without local credential or file system setup",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/baryhuang/mcp-headless-gmail",
+    "github": "https://github.com/baryhuang/mcp-headless-gmail",
+    "approved": true,
+    "githubStars": 14
+  },
+  {
+    "id": "goal-story",
+    "name": "Goal Story",
+    "description": "a Goal Tracker and Visualization Tool for personal and professional development",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/hichana/goalstory-mcp",
+    "github": "https://github.com/hichana/goalstory-mcp",
+    "approved": true,
+    "githubStars": 8
+  },
+  {
+    "id": "goat",
+    "name": "GOAT",
+    "description": "Run more than +200 onchain actions on any blockchain including Ethereum, Solana and Base",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol",
+    "github": "https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol",
+    "approved": true,
+    "githubStars": 583
+  },
+  {
+    "id": "godot",
+    "name": "Godot",
+    "description": "A MCP server providing comprehensive Godot engine integration for project editing, debugging, and scene management",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Coding-Solo/godot-mcp",
+    "github": "https://github.com/Coding-Solo/godot-mcp",
+    "approved": true,
+    "githubStars": 255
+  },
+  {
+    "id": "golang-filesystem-server",
+    "name": "Golang Filesystem Server",
+    "description": "Secure file operations with configurable access controls built with Go!",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/mark3labs/mcp-filesystem-server",
+    "github": "https://github.com/mark3labs/mcp-filesystem-server",
+    "approved": true,
+    "githubStars": 192
+  },
+  {
+    "id": "goodnews",
+    "name": "Goodnews",
+    "description": "A simple MCP server that delivers curated positive and uplifting news stories",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/VectorInstitute/mcp-goodnews",
+    "github": "https://github.com/VectorInstitute/mcp-goodnews",
+    "approved": true,
+    "githubStars": 32
+  },
+  {
+    "id": "google-calendar",
+    "name": "Google Calendar",
+    "description": "Integration with Google Calendar to check schedules, find time, and add/delete events",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/v-3/google-calendar",
+    "github": "https://github.com/v-3/google-calendar",
+    "approved": true,
+    "githubStars": 33
+  },
+  {
+    "id": "google-calendar-2",
+    "name": "Google Calendar",
+    "description": "Google Calendar MCP Server for managing Google calendar events. Also supports searching for events by attributes like title and location",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/nspady/google-calendar-mcp",
+    "github": "https://github.com/nspady/google-calendar-mcp",
+    "approved": true,
+    "githubStars": 112
+  },
+  {
+    "id": "google-custom-search",
+    "name": "Google Custom Search",
+    "description": "Provides Google Search results via the Google Custom Search API",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/adenot/mcp-google-search",
+    "github": "https://github.com/adenot/mcp-google-search",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "google-tasks",
+    "name": "Google Tasks",
+    "description": "Google Tasks API Model Context Protocol Server",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/zcaceres/gtasks-mcp",
+    "github": "https://github.com/zcaceres/gtasks-mcp",
+    "approved": true,
+    "githubStars": 31
+  },
+  {
+    "id": "graphql-schema",
+    "name": "GraphQL Schema",
+    "description": "Allow LLMs to explore large GraphQL schemas without bloating the context",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/hannesj/mcp-graphql-schema",
+    "github": "https://github.com/hannesj/mcp-graphql-schema",
+    "approved": true,
+    "githubStars": 10
+  },
+  {
+    "id": "hdw-linkedin",
+    "name": "HDW LinkedIn",
+    "description": "Access to profile data and management of user account with [HorizonDataWave.ai](https://horizondatawave.ai/)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/horizondatawave/hdw-mcp-server",
+    "github": "https://github.com/horizondatawave/hdw-mcp-server",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "heurist-mesh-agent",
+    "name": "Heurist Mesh Agent",
+    "description": "Access specialized web3 AI agents for blockchain analysis, smart contract security, token metrics, and blockchain interactions through the [Heurist Mesh network](https://github.com/heurist-network/heurist-agent-framework/tree/main/mesh)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/heurist-network/heurist-mesh-mcp-server",
+    "github": "https://github.com/heurist-network/heurist-mesh-mcp-server",
+    "approved": true,
+    "githubStars": 36
+  },
+  {
+    "id": "holaspirit",
+    "name": "Holaspirit",
+    "description": "Interact with [Holaspirit](https://www.holaspirit.com/)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/syucream/holaspirit-mcp-server",
+    "github": "https://github.com/syucream/holaspirit-mcp-server",
+    "approved": true,
+    "githubStars": 1
+  },
+  {
+    "id": "home-assistant",
+    "name": "Home Assistant",
+    "description": "Interact with [Home Assistant](https://www.home-assistant.io/) including viewing and controlling lights, switches, sensors, and all other Home Assistant entities",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/tevonsb/homeassistant-mcp",
+    "github": "https://github.com/tevonsb/homeassistant-mcp",
+    "approved": true,
+    "githubStars": 195
+  },
+  {
+    "id": "home-assistant-2",
+    "name": "Home Assistant",
+    "description": "Docker-ready MCP server for Home Assistant with entity management, domain summaries, automation support, and guided conversations. Includes pre-built container images for easy installation",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/voska/hass-mcp",
+    "github": "https://github.com/voska/hass-mcp",
+    "approved": true,
+    "githubStars": 38
+  },
+  {
+    "id": "hubspot",
+    "name": "HubSpot",
+    "description": "HubSpot CRM integration for managing contacts and companies. Create and retrieve CRM data directly through Claude chat",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/buryhuang/mcp-hubspot",
+    "github": "https://github.com/buryhuang/mcp-hubspot",
+    "approved": true,
+    "githubStars": 38
+  },
+  {
+    "id": "huggingface-spaces",
+    "name": "HuggingFace Spaces",
+    "description": "Server for using HuggingFace Spaces, supporting Open Source Image, Audio, Text Models and more. Claude Desktop mode for easy integration",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/evalstate/mcp-hfspace",
+    "github": "https://github.com/evalstate/mcp-hfspace",
+    "approved": true,
+    "githubStars": 207
+  },
+  {
+    "id": "hyperliquid",
+    "name": "Hyperliquid",
+    "description": "An MCP server implementation that integrates the Hyperliquid SDK for exchange data",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/mektigboy/server-hyperliquid",
+    "github": "https://github.com/mektigboy/server-hyperliquid",
+    "approved": true,
+    "githubStars": 10
+  },
+  {
+    "id": "iflytek-workflow",
+    "name": "iFlytek Workflow",
+    "description": "Connect to iFlytek Workflow via the MCP server and run your own Agent",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/iflytek/ifly-workflow-mcp-server",
+    "github": "https://github.com/iflytek/ifly-workflow-mcp-server",
+    "approved": true,
+    "githubStars": 18
+  },
+  {
+    "id": "image-generation",
+    "name": "Image Generation",
+    "description": "This MCP server provides image generation capabilities using the Replicate Flux model",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GongRzhe/Image-Generation-MCP-Server",
+    "github": "https://github.com/GongRzhe/Image-Generation-MCP-Server",
+    "approved": true,
+    "githubStars": 16
+  },
+  {
+    "id": "influxdb",
+    "name": "InfluxDB",
+    "description": "Run queries against InfluxDB OSS API v2",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/idoru/influxdb-mcp-server",
+    "github": "https://github.com/idoru/influxdb-mcp-server",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "inoyu",
+    "name": "Inoyu",
+    "description": "Interact with an Apache Unomi CDP customer data platform to retrieve and update customer profiles",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/sergehuber/inoyu-mcp-unomi-server",
+    "github": "https://github.com/sergehuber/inoyu-mcp-unomi-server",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "intercom",
+    "name": "Intercom",
+    "description": "An MCP-compliant server for retrieving customer support tickets from Intercom. This tool enables AI assistants like Claude Desktop and Cline to access and analyze your Intercom support tickets",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/raoulbia-ai/mcp-server-for-intercom",
+    "github": "https://github.com/raoulbia-ai/mcp-server-for-intercom",
+    "approved": true,
+    "githubStars": 3
+  },
+  {
+    "id": "ios-simulator",
+    "name": "iOS Simulator",
+    "description": "A Model Context Protocol (MCP) server that enables LLMs to interact with iOS simulators (iPhone, iPad, etc.) through natural language commands",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/InditexTech/mcp-server-simulator-ios-idb",
+    "github": "https://github.com/InditexTech/mcp-server-simulator-ios-idb",
+    "approved": true,
+    "githubStars": 42
+  },
+  {
+    "id": "iterm-mcp",
+    "name": "iTerm MCP",
+    "description": "Integration with iTerm2 terminal emulator for macOS, enabling LLMs to execute and monitor terminal commands",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ferrislucas/iterm-mcp",
+    "github": "https://github.com/ferrislucas/iterm-mcp",
+    "approved": true,
+    "githubStars": 246
+  },
+  {
+    "id": "javafx",
+    "name": "JavaFX",
+    "description": "Make drawings using a JavaFX canvas",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/mcpso/mcp-server-javafx",
+    "github": "https://github.com/mcpso/mcp-server-javafx",
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "jdbc",
+    "name": "JDBC",
+    "description": "Connect to any JDBC-compatible database and query, insert, update, delete, and more. Supports MySQL, PostgreSQL, Oracle, SQL Server, sqllite and [more](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc#supported-jdbc-variants)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc",
+    "github": "https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc",
+    "approved": true,
+    "githubStars": 88
+  },
+  {
+    "id": "json",
+    "name": "JSON",
+    "description": "JSON handling and processing server with advanced query capabilities using JSONPath syntax and support for array, string, numeric, and date operations",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GongRzhe/JSON-MCP-Server",
+    "github": "https://github.com/GongRzhe/JSON-MCP-Server",
+    "approved": true,
+    "githubStars": 29
+  },
+  {
+    "id": "kicad-mcp",
+    "name": "KiCad MCP",
+    "description": "MCP server for KiCad on Mac, Windows, and Linux",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/lamaalrajih/kicad-mcp",
+    "github": "https://github.com/lamaalrajih/kicad-mcp",
+    "approved": true,
+    "githubStars": 43
+  },
+  {
+    "id": "keycloak-mcp",
+    "name": "Keycloak MCP",
+    "description": "This MCP server enables natural language interaction with Keycloak for user and realm management including creating, deleting, and listing users and realms",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ChristophEnglisch/keycloak-model-context-protocol",
+    "github": "https://github.com/ChristophEnglisch/keycloak-model-context-protocol",
+    "approved": true,
+    "githubStars": 17
+  },
+  {
+    "id": "kibela",
+    "name": "Kibela",
+    "description": "Interact with Kibela API",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/kiwamizamurai/mcp-kibela-server",
+    "github": "https://github.com/kiwamizamurai/mcp-kibela-server",
+    "approved": true,
+    "githubStars": 1
+  },
+  {
+    "id": "kintone",
+    "name": "kintone",
+    "description": "Manage records and apps in [kintone](https://kintone.com) through LLM tools",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/macrat/mcp-server-kintone",
+    "github": "https://github.com/macrat/mcp-server-kintone",
+    "approved": true,
+    "githubStars": 9
+  },
+  {
+    "id": "kong-konnect",
+    "name": "Kong Konnect",
+    "description": "A Model Context Protocol (MCP) server for interacting with Kong Konnect APIs, allowing AI assistants to query and analyze Kong Gateway configurations, traffic, and analytics",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Kong/mcp-konnect",
+    "github": "https://github.com/Kong/mcp-konnect",
+    "approved": true,
+    "githubStars": 22
+  },
+  {
+    "id": "kubernetes",
+    "name": "Kubernetes",
+    "description": "Connect to Kubernetes cluster and manage pods, deployments, and services",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Flux159/mcp-server-kubernetes",
+    "github": "https://github.com/Flux159/mcp-server-kubernetes",
+    "approved": true,
+    "githubStars": 352
+  },
+  {
+    "id": "kubernetes-and-openshift",
+    "name": "Kubernetes and OpenShift",
+    "description": "A powerful Kubernetes MCP server with additional support for OpenShift. Besides providing CRUD operations for any Kubernetes resource, this server provides specialized tools to interact with your cluster",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/manusa/kubernetes-mcp-server",
+    "github": "https://github.com/manusa/kubernetes-mcp-server",
+    "approved": true,
+    "githubStars": 78
+  },
+  {
+    "id": "langflow-doc-qa-server",
+    "name": "Langflow-DOC-QA-SERVER",
+    "description": "A Model Context Protocol server for document Q&A powered by Langflow. It demonstrates core MCP concepts by providing a simple interface to query documents through a Langflow backend",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GongRzhe/Langflow-DOC-QA-SERVER",
+    "github": "https://github.com/GongRzhe/Langflow-DOC-QA-SERVER",
+    "approved": true,
+    "githubStars": 5
+  },
+  {
+    "id": "lightdash",
+    "name": "Lightdash",
+    "description": "Interact with [Lightdash](https://www.lightdash.com/), a BI tool",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/syucream/lightdash-mcp-server",
+    "github": "https://github.com/syucream/lightdash-mcp-server",
+    "approved": true,
+    "githubStars": 13
+  },
+  {
+    "id": "linear",
+    "name": "Linear",
+    "description": "Allows LLM to interact with Linear's API for project management, including searching, creating, and updating issues",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/jerhadf/linear-mcp-server",
+    "github": "https://github.com/jerhadf/linear-mcp-server",
+    "approved": true,
+    "githubStars": 241
+  },
+  {
+    "id": "linear-go",
+    "name": "Linear (Go)",
+    "description": "Allows LLM to interact with Linear's API via a single static binary",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/geropl/linear-mcp-go",
+    "github": "https://github.com/geropl/linear-mcp-go",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "line",
+    "name": "LINE",
+    "description": "Implementation for LINE Bot integration that enables Language Models to read and analyze LINE conversations through a standardized interface. Features asynchronous operation, comprehensive logging, webhook event handling, and support for various message types",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/amornpan/py-mcp-line",
+    "github": "https://github.com/amornpan/py-mcp-line",
+    "approved": true,
+    "githubStars": 10
+  },
+  {
+    "id": "llamacloud",
+    "name": "LlamaCloud",
+    "description": "Integrate the data stored in a managed index on [LlamaCloud](https://cloud.llamaindex.ai/)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/run-llama/mcp-server-llamacloud",
+    "github": "https://github.com/run-llama/mcp-server-llamacloud",
+    "approved": true,
+    "githubStars": 69
+  },
+  {
+    "id": "llm-context",
+    "name": "llm-context",
+    "description": "Provides a repo-packing MCP tool with configurable profiles that specify file inclusion/exclusion patterns and optional prompts",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/cyberchitta/llm-context.py",
+    "github": "https://github.com/cyberchitta/llm-context.py",
+    "approved": true,
+    "githubStars": 182
+  },
+  {
+    "id": "mac-messages-mcp",
+    "name": "mac-messages-mcp",
+    "description": "An MCP server that securely interfaces with your iMessage database via the Model Context Protocol (MCP), allowing LLMs to query and analyze iMessage conversations. It includes robust phone number validation, attachment processing, contact management, group chat handling, and full support for sending and receiving messages",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/carterlasalle/mac_messages_mcp",
+    "github": "https://github.com/carterlasalle/mac_messages_mcp",
+    "approved": true,
+    "githubStars": 47
+  },
+  {
+    "id": "mariadb",
+    "name": "MariaDB",
+    "description": "MariaDB database integration with configurable access controls in Python",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/abel9851/mcp-server-mariadb",
+    "github": "https://github.com/abel9851/mcp-server-mariadb",
+    "approved": true,
+    "githubStars": 7
+  },
+  {
+    "id": "maton",
+    "name": "Maton",
+    "description": "Connect to your SaaS tools like HubSpot, Salesforce, and more",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/maton-ai/agent-toolkit/tree/main/modelcontextprotocol",
+    "github": "https://github.com/maton-ai/agent-toolkit/tree/main/modelcontextprotocol",
+    "approved": true,
+    "githubStars": 24
+  },
+  {
+    "id": "mcp-compass",
+    "name": "MCP Compass",
+    "description": "Suggest the right MCP server for your needs",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/liuyoshio/mcp-compass",
+    "github": "https://github.com/liuyoshio/mcp-compass",
+    "approved": true,
+    "githubStars": 56
+  },
+  {
+    "id": "mcp-create",
+    "name": "MCP Create",
+    "description": "A dynamic MCP server management service that creates, runs, and manages Model Context Protocol servers on-the-fly",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/tesla0225/mcp-create",
+    "github": "https://github.com/tesla0225/mcp-create",
+    "approved": true,
+    "githubStars": 48
+  },
+  {
+    "id": "mcp-installer",
+    "name": "MCP Installer",
+    "description": "This server is a server that installs other MCP servers for you",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/anaisbetts/mcp-installer",
+    "github": "https://github.com/anaisbetts/mcp-installer",
+    "approved": true,
+    "githubStars": 928
+  },
+  {
+    "id": "mcp-k8s-go",
+    "name": "mcp-k8s-go",
+    "description": "Golang-based Kubernetes server for MCP to browse pods and their logs, events, namespaces and more. Built to be extensible",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/strowk/mcp-k8s-go",
+    "github": "https://github.com/strowk/mcp-k8s-go",
+    "approved": true,
+    "githubStars": 228
+  },
+  {
+    "id": "mcp-local-rag",
+    "name": "mcp-local-rag",
+    "description": "\"primitive\" RAG-like web search model context protocol (MCP) server that runs locally using Google's MediaPipe Text Embedder and DuckDuckGo Search. ✨ no APIs required ✨",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/nkapila6/mcp-local-rag",
+    "github": "https://github.com/nkapila6/mcp-local-rag",
+    "approved": true,
+    "githubStars": 16
+  },
+  {
+    "id": "mcp-proxy",
+    "name": "mcp-proxy",
+    "description": "Connect to MCP servers that run on SSE transport, or expose stdio servers as an SSE server",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/sparfenyuk/mcp-proxy",
+    "github": "https://github.com/sparfenyuk/mcp-proxy",
+    "approved": true,
+    "githubStars": 405
+  },
+  {
+    "id": "mem0-mcp",
+    "name": "mem0-mcp",
+    "description": "A Model Context Protocol server for Mem0, which helps with managing coding preferences",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/mem0ai/mem0-mcp",
+    "github": "https://github.com/mem0ai/mem0-mcp",
+    "approved": true,
+    "githubStars": 86
+  },
+  {
+    "id": "mssql",
+    "name": "MSSQL",
+    "description": "MSSQL database integration with configurable access controls and schema inspection",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/aekanun2020/mcp-server/",
+    "github": "https://github.com/aekanun2020/mcp-server/",
+    "approved": true,
+    "githubStars": null
+  },
+  {
+    "id": "mssql-2",
+    "name": "MSSQL",
+    "description": "MCP Server for MSSQL database in Python",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/JexinSam/mssql_mcp_server",
+    "github": "https://github.com/JexinSam/mssql_mcp_server",
+    "approved": true,
+    "githubStars": 9
+  },
+  {
+    "id": "mssql-python",
+    "name": "MSSQL-Python",
+    "description": "A read-only Python implementation for MSSQL database access with enhanced security features, configurable access controls, and schema inspection capabilities. Focuses on safe database interaction through Python ecosystem",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/amornpan/py-mcp-mssql",
+    "github": "https://github.com/amornpan/py-mcp-mssql",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "mssql-mcp",
+    "name": "MSSQL-MCP",
+    "description": "MSSQL MCP that refer to the official website's SQLite MCP for modifications to adapt to MSSQL",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/daobataotie/mssql-mcp",
+    "github": "https://github.com/daobataotie/mssql-mcp",
+    "approved": true,
+    "githubStars": 19
+  },
+  {
+    "id": "markdownify",
+    "name": "Markdownify",
+    "description": "MCP to convert almost anything to Markdown (PPTX, HTML, PDF, Youtube Transcripts and more)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/zcaceres/mcp-markdownify-server",
+    "github": "https://github.com/zcaceres/mcp-markdownify-server",
+    "approved": true,
+    "githubStars": 1272
+  },
+  {
+    "id": "microsoft-teams",
+    "name": "Microsoft Teams",
+    "description": "MCP server that integrates Microsoft Teams messaging (read, post, mention, list members and threads)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/InditexTech/mcp-teams-server",
+    "github": "https://github.com/InditexTech/mcp-teams-server",
+    "approved": true,
+    "githubStars": 36
+  },
+  {
+    "id": "mindmap",
+    "name": "Mindmap",
+    "description": "A server that generates mindmaps from input containing markdown code",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/YuChenSSR/mindmap-mcp-server",
+    "github": "https://github.com/YuChenSSR/mindmap-mcp-server",
+    "approved": true,
+    "githubStars": 50
+  },
+  {
+    "id": "minima",
+    "name": "Minima",
+    "description": "MCP server for RAG on local files",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/dmayboroda/minima",
+    "github": "https://github.com/dmayboroda/minima",
+    "approved": true,
+    "githubStars": 695
+  },
+  {
+    "id": "mobile-mcp",
+    "name": "Mobile MCP",
+    "description": "MCP server for Mobile(iOS/Android) automation, app scraping and development using physical devices or simulators/emulators",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/mobile-next/mobile-mcp",
+    "github": "https://github.com/mobile-next/mobile-mcp",
+    "approved": true,
+    "githubStars": 161
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "description": "A Model Context Protocol Server for MongoDB",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/kiliczsh/mcp-mongo-server",
+    "github": "https://github.com/kiliczsh/mcp-mongo-server",
+    "approved": true,
+    "githubStars": 116
+  },
+  {
+    "id": "mongodb-lens",
+    "name": "MongoDB Lens",
+    "description": "Full Featured MCP Server for MongoDB Databases",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/furey/mongodb-lens",
+    "github": "https://github.com/furey/mongodb-lens",
+    "approved": true,
+    "githubStars": 71
+  },
+  {
+    "id": "monday-com",
+    "name": "Monday.com",
+    "description": "MCP Server to interact with Monday.com boards and items",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/sakce/mcp-server-monday",
+    "github": "https://github.com/sakce/mcp-server-monday",
+    "approved": true,
+    "githubStars": 20
+  },
+  {
+    "id": "multicluster-mcp-sever",
+    "name": "Multicluster-MCP-Sever",
+    "description": "The gateway for GenAI systems to interact with multiple Kubernetes clusters",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/yanmxa/multicluster-mcp-server",
+    "github": "https://github.com/yanmxa/multicluster-mcp-server",
+    "approved": true,
+    "githubStars": 0
+  },
+  {
+    "id": "mysql",
+    "name": "MySQL",
+    "description": "MySQL database integration in NodeJS with configurable access controls and schema inspection",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/benborla/mcp-server-mysql",
+    "github": "https://github.com/benborla/mcp-server-mysql",
+    "approved": true,
+    "githubStars": 191
+  },
+  {
+    "id": "mysql-2",
+    "name": "MySQL",
+    "description": "MySQL database integration in Python with configurable access controls and schema inspection",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/designcomputer/mysql_mcp_server",
+    "github": "https://github.com/designcomputer/mysql_mcp_server",
+    "approved": true,
+    "githubStars": 289
+  },
+  {
+    "id": "n8n",
+    "name": "n8n",
+    "description": "This MCP server provides tools and resources for AI assistants to manage n8n workflows and executions, including listing, creating, updating, and deleting workflows, as well as monitoring their execution status",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/leonardsellem/n8n-mcp-server",
+    "github": "https://github.com/leonardsellem/n8n-mcp-server",
+    "approved": true,
+    "githubStars": 130
+  },
+  {
+    "id": "nasa",
+    "name": "NASA",
+    "description": "Access to a unified gateway of NASA's data sources including but not limited to APOD, NEO, EPIC, GIBS",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ProgramComputer/NASA-MCP-server",
+    "github": "https://github.com/ProgramComputer/NASA-MCP-server",
+    "approved": true,
+    "githubStars": 11
+  },
+  {
+    "id": "nasdaq-data-link",
+    "name": "Nasdaq Data Link",
+    "description": "An MCP server to access, explore, and interact with Nasdaq Data Link’s extensive and valuable financial and economic datasets",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/stefanoamorelli/nasdaq-data-link-mcp",
+    "github": "https://github.com/stefanoamorelli/nasdaq-data-link-mcp",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "national-parks",
+    "name": "National Parks",
+    "description": "The server provides latest information of park details, alerts, visitor centers, campgrounds, hiking trails, and events for U.S. National Parks",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/KyrieTangSheng/mcp-server-nationalparks",
+    "github": "https://github.com/KyrieTangSheng/mcp-server-nationalparks",
+    "approved": true,
+    "githubStars": 7
+  },
+  {
+    "id": "naver",
+    "name": "NAVER",
+    "description": "This MCP server provides tools to interact with various Naver services, such as searching blogs, news, books, and more",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/pfldy2850/py-mcp-naver",
+    "github": "https://github.com/pfldy2850/py-mcp-naver",
+    "approved": true,
+    "githubStars": 74
+  },
+  {
+    "id": "ns-travel-information",
+    "name": "NS Travel Information",
+    "description": "Access Dutch Railways (NS) real-time train travel information and disruptions through the official NS API",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/r-huijts/ns-mcp-server",
+    "github": "https://github.com/r-huijts/ns-mcp-server",
+    "approved": true,
+    "githubStars": 22
+  },
+  {
+    "id": "neo4j-2",
+    "name": "Neo4j",
+    "description": "A community built server that interacts with Neo4j Graph Database",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/da-okazaki/mcp-neo4j-server",
+    "github": "https://github.com/da-okazaki/mcp-neo4j-server",
+    "approved": true,
+    "githubStars": 30
+  },
+  {
+    "id": "neovim",
+    "name": "Neovim",
+    "description": "An MCP Server for your Neovim session",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/bigcodegen/mcp-neovim-server",
+    "github": "https://github.com/bigcodegen/mcp-neovim-server",
+    "approved": true,
+    "githubStars": 108
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "description": "Interact with Notion API",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/suekou/mcp-notion-server",
+    "github": "https://github.com/suekou/mcp-notion-server",
+    "approved": true,
+    "githubStars": 540
+  },
+  {
+    "id": "notion-2",
+    "name": "Notion",
+    "description": "Notion MCP integration. Search, Read, Update, and Create pages through Claude chat",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/v-3/notion-server",
+    "github": "https://github.com/v-3/notion-server",
+    "approved": true,
+    "githubStars": 69
+  },
+  {
+    "id": "ntfy-mcp",
+    "name": "ntfy-mcp",
+    "description": "The MCP server that keeps you informed by sending the notification on phone using ntfy",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/teddyzxcv/ntfy-mcp",
+    "github": "https://github.com/teddyzxcv/ntfy-mcp",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "oatpp-mcp",
+    "name": "oatpp-mcp",
+    "description": "C++ MCP integration for Oat++. Use [Oat++](https://oatpp.io) to build MCP servers",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/oatpp/oatpp-mcp",
+    "github": "https://github.com/oatpp/oatpp-mcp",
+    "approved": true,
+    "githubStars": 34
+  },
+  {
+    "id": "obsidian-markdown-notes",
+    "name": "Obsidian Markdown Notes",
+    "description": "Read and search through your Obsidian vault or any directory containing Markdown notes",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/calclavia/mcp-obsidian",
+    "github": "https://github.com/calclavia/mcp-obsidian",
+    "approved": true,
+    "githubStars": 649
+  },
+  {
+    "id": "obsidian-mcp",
+    "name": "obsidian-mcp",
+    "description": "(by Steven Stavrakis) An MCP server for Obsidian.md with tools for searching, reading, writing, and organizing notes",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/StevenStavrakis/obsidian-mcp",
+    "github": "https://github.com/StevenStavrakis/obsidian-mcp",
+    "approved": true,
+    "githubStars": 199
+  },
+  {
+    "id": "oceanbase-2",
+    "name": "OceanBase",
+    "description": "(by yuanoOo) A Model Context Protocol (MCP) server that enables secure interaction with OceanBase databases",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/yuanoOo/oceanbase_mcp_server",
+    "github": "https://github.com/yuanoOo/oceanbase_mcp_server",
+    "approved": true,
+    "githubStars": 2
+  },
+  {
+    "id": "okta",
+    "name": "Okta",
+    "description": "Interact with Okta API",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/kapilduraphe/okta-mcp-server",
+    "github": "https://github.com/kapilduraphe/okta-mcp-server",
+    "approved": true,
+    "githubStars": 8
+  },
+  {
+    "id": "onenote",
+    "name": "OneNote",
+    "description": "(by Rajesh Vijay) An MCP server that connects to Microsoft OneNote using the Microsoft Graph API. Reading notebooks, sections, and pages from OneNote,Creating new notebooks, sections, and pages in OneNote",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/rajvirtual/MCP-Servers/tree/master/onenote",
+    "github": "https://github.com/rajvirtual/MCP-Servers/tree/master/onenote",
+    "approved": true,
+    "githubStars": 0
+  },
+  {
+    "id": "openai-websearch-mcp",
+    "name": "OpenAI WebSearch MCP",
+    "description": "This is a Python-based MCP server that provides OpenAI `web_search` build-in tool",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ConechoAI/openai-websearch-mcp",
+    "github": "https://github.com/ConechoAI/openai-websearch-mcp",
+    "approved": true,
+    "githubStars": 32
+  },
+  {
+    "id": "openapi",
+    "name": "OpenAPI",
+    "description": "Interact with [OpenAPI](https://www.openapis.org/) APIs",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/snaggle-ai/openapi-mcp-server",
+    "github": "https://github.com/snaggle-ai/openapi-mcp-server",
+    "approved": true,
+    "githubStars": 457
+  },
+  {
+    "id": "openapi-anyapi",
+    "name": "OpenAPI AnyApi",
+    "description": "Interact with large [OpenAPI](https://www.openapis.org/) docs using built-in semantic search for endpoints. Allows for customizing the MCP server prefix",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/baryhuang/mcp-server-any-openapi",
+    "github": "https://github.com/baryhuang/mcp-server-any-openapi",
+    "approved": true,
+    "githubStars": 22
+  },
+  {
+    "id": "openapi-schema",
+    "name": "OpenAPI Schema",
+    "description": "Allow LLMs to explore large [OpenAPI](https://www.openapis.org/) schemas without bloating the context",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/hannesj/mcp-openapi-schema",
+    "github": "https://github.com/hannesj/mcp-openapi-schema",
+    "approved": true,
+    "githubStars": 16
+  },
+  {
+    "id": "opencti",
+    "name": "OpenCTI",
+    "description": "Interact with OpenCTI platform to retrieve threat intelligence data including reports, indicators, malware and threat actors",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Spathodea-Network/opencti-mcp",
+    "github": "https://github.com/Spathodea-Network/opencti-mcp",
+    "approved": true,
+    "githubStars": 8
+  },
+  {
+    "id": "opendota",
+    "name": "OpenDota",
+    "description": "Interact with OpenDota API to retrieve Dota 2 match data, player statistics, and more",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/asusevski/opendota-mcp-server",
+    "github": "https://github.com/asusevski/opendota-mcp-server",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "openrpc",
+    "name": "OpenRPC",
+    "description": "Interact with and discover JSON-RPC APIs via [OpenRPC](https://open-rpc.org)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/shanejonas/openrpc-mpc-server",
+    "github": "https://github.com/shanejonas/openrpc-mpc-server",
+    "approved": true,
+    "githubStars": 31
+  },
+  {
+    "id": "open-strategy-partners-marketing-tools",
+    "name": "Open Strategy Partners Marketing Tools",
+    "description": "Content editing codes, value map, and positioning tools for product marketing",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/open-strategy-partners/osp_marketing_tools",
+    "github": "https://github.com/open-strategy-partners/osp_marketing_tools",
+    "approved": true,
+    "githubStars": 131
+  },
+  {
+    "id": "pandoc",
+    "name": "Pandoc",
+    "description": "MCP server for seamless document format conversion using Pandoc, supporting Markdown, HTML, PDF, DOCX (.docx), csv and more",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/vivekVells/mcp-pandoc",
+    "github": "https://github.com/vivekVells/mcp-pandoc",
+    "approved": true,
+    "githubStars": 145
+  },
+  {
+    "id": "pif",
+    "name": "PIF",
+    "description": "A Personal Intelligence Framework (PIF), providing tools for file operations, structured reasoning, and journal-based documentation to support continuity and evolving human-AI collaboration across sessions",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/hungryrobot1/MCP-PIF",
+    "github": "https://github.com/hungryrobot1/MCP-PIF",
+    "approved": true,
+    "githubStars": 20
+  },
+  {
+    "id": "pinecone",
+    "name": "Pinecone",
+    "description": "MCP server for searching and uploading records to Pinecone. Allows for simple RAG features, leveraging Pinecone's Inference API",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/sirmews/mcp-pinecone",
+    "github": "https://github.com/sirmews/mcp-pinecone",
+    "approved": true,
+    "githubStars": 105
+  },
+  {
+    "id": "placid-app",
+    "name": "Placid.app",
+    "description": "Generate image and video creatives using Placid.app templates",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/felores/placid-mcp-server",
+    "github": "https://github.com/felores/placid-mcp-server",
+    "approved": true,
+    "githubStars": 8
+  },
+  {
+    "id": "playwright",
+    "name": "Playwright",
+    "description": "This MCP Server will help you run browser automation and webscraping using Playwright",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/executeautomation/mcp-playwright",
+    "github": "https://github.com/executeautomation/mcp-playwright",
+    "approved": true,
+    "githubStars": 2666
+  },
+  {
+    "id": "postman",
+    "name": "Postman",
+    "description": "MCP server for running Postman Collections locally via Newman. Allows for simple execution of Postman Server and returns the results of whether the collection passed all the tests",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/shannonlal/mcp-postman",
+    "github": "https://github.com/shannonlal/mcp-postman",
+    "approved": true,
+    "githubStars": 39
+  },
+  {
+    "id": "productboard",
+    "name": "Productboard",
+    "description": "Integrate the Productboard API into agentic workflows via MCP",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/kenjihikmatullah/productboard-mcp",
+    "github": "https://github.com/kenjihikmatullah/productboard-mcp",
+    "approved": true,
+    "githubStars": 5
+  },
+  {
+    "id": "prometheus",
+    "name": "Prometheus",
+    "description": "Query and analyze Prometheus - open-source monitoring system",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/pab1it0/prometheus-mcp-server",
+    "github": "https://github.com/pab1it0/prometheus-mcp-server",
+    "approved": true,
+    "githubStars": 21
+  },
+  {
+    "id": "pulumi",
+    "name": "Pulumi",
+    "description": "MCP Server to Interact with Pulumi API, creates and lists Stacks",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/dogukanakkaya/pulumi-mcp-server",
+    "github": "https://github.com/dogukanakkaya/pulumi-mcp-server",
+    "approved": true,
+    "githubStars": 2
+  },
+  {
+    "id": "pushover",
+    "name": "Pushover",
+    "description": "Send instant notifications to your devices using [Pushover.net](https://pushover.net/)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ashiknesin/pushover-mcp",
+    "github": "https://github.com/ashiknesin/pushover-mcp",
+    "approved": true,
+    "githubStars": 8
+  },
+  {
+    "id": "qgis",
+    "name": "QGIS",
+    "description": "connects QGIS to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer loading, code execution, and more",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/jjsantos01/qgis_mcp",
+    "github": "https://github.com/jjsantos01/qgis_mcp",
+    "approved": true,
+    "githubStars": 420
+  },
+  {
+    "id": "quickchart",
+    "name": "QuickChart",
+    "description": "A Model Context Protocol server for generating charts using QuickChart.io",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GongRzhe/Quickchart-MCP-Server",
+    "github": "https://github.com/GongRzhe/Quickchart-MCP-Server",
+    "approved": true,
+    "githubStars": 23
+  },
+  {
+    "id": "qwen-max",
+    "name": "Qwen_Max",
+    "description": "A Model Context Protocol (MCP) server implementation for the Qwen models",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/66julienmartin/MCP-server-Qwen_Max",
+    "github": "https://github.com/66julienmartin/MCP-server-Qwen_Max",
+    "approved": true,
+    "githubStars": 11
+  },
+  {
+    "id": "rabbitmq",
+    "name": "RabbitMQ",
+    "description": "The MCP server that interacts with RabbitMQ to publish and consume messages",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/kenliao94/mcp-server-rabbitmq",
+    "github": "https://github.com/kenliao94/mcp-server-rabbitmq",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "rag-web-browser",
+    "name": "RAG Web Browser",
+    "description": "",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/apify/mcp-server-rag-web-browser",
+    "github": "https://github.com/apify/mcp-server-rag-web-browser",
+    "approved": true,
+    "githubStars": 107
+  },
+  {
+    "id": "reaper",
+    "name": "Reaper",
+    "description": "Interact with your [Reaper](https://www.reaper.fm/) (Digital Audio Workstation) projects",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/dschuler36/reaper-mcp-server",
+    "github": "https://github.com/dschuler36/reaper-mcp-server",
+    "approved": true,
+    "githubStars": 21
+  },
+  {
+    "id": "redis-2",
+    "name": "Redis",
+    "description": "Redis database operations and caching microservice server with support for key-value operations, expiration management, and pattern-based key listing",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GongRzhe/REDIS-MCP-Server",
+    "github": "https://github.com/GongRzhe/REDIS-MCP-Server",
+    "approved": true,
+    "githubStars": 22
+  },
+  {
+    "id": "redis-3",
+    "name": "Redis",
+    "description": "",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/prajwalnayak7/mcp-server-redis",
+    "github": "https://github.com/prajwalnayak7/mcp-server-redis",
+    "approved": true,
+    "githubStars": 17
+  },
+  {
+    "id": "rememberizer-ai",
+    "name": "Rememberizer AI",
+    "description": "An MCP server designed for interacting with the Rememberizer data source, facilitating enhanced knowledge retrieval",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/skydeckai/mcp-server-rememberizer",
+    "github": "https://github.com/skydeckai/mcp-server-rememberizer",
+    "approved": true,
+    "githubStars": 19
+  },
+  {
+    "id": "replicate",
+    "name": "Replicate",
+    "description": "Search, run and manage machine learning models on Replicate through a simple tool-based interface. Browse models, create predictions, track their status, and handle generated images",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/deepfates/mcp-replicate",
+    "github": "https://github.com/deepfates/mcp-replicate",
+    "approved": true,
+    "githubStars": 43
+  },
+  {
+    "id": "rquest",
+    "name": "Rquest",
+    "description": "An MCP server providing realistic browser-like HTTP request capabilities with accurate TLS/JA3/JA4 fingerprints for bypassing anti-bot measures",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/xxxbrian/mcp-rquest",
+    "github": "https://github.com/xxxbrian/mcp-rquest",
+    "approved": true,
+    "githubStars": 13
+  },
+  {
+    "id": "rijksmuseum",
+    "name": "Rijksmuseum",
+    "description": "Interface with the Rijksmuseum API to search artworks, retrieve artwork details, access image tiles, and explore user collections",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/r-huijts/rijksmuseum-mcp",
+    "github": "https://github.com/r-huijts/rijksmuseum-mcp",
+    "approved": true,
+    "githubStars": 40
+  },
+  {
+    "id": "salesforce-mcp",
+    "name": "Salesforce MCP",
+    "description": "Interact with Salesforce Data and Metadata",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/smn2gnt/MCP-Salesforce",
+    "github": "https://github.com/smn2gnt/MCP-Salesforce",
+    "approved": true,
+    "githubStars": 42
+  },
+  {
+    "id": "scholarly",
+    "name": "Scholarly",
+    "description": "A MCP server to search for scholarly and academic articles",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/adityak74/mcp-scholarly",
+    "github": "https://github.com/adityak74/mcp-scholarly",
+    "approved": true,
+    "githubStars": 79
+  },
+  {
+    "id": "scrapling-fetch",
+    "name": "scrapling-fetch",
+    "description": "Access text content from bot-protected websites. Fetches HTML/markdown from sites with anti-automation measures using Scrapling",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/cyberchitta/scrapling-fetch-mcp",
+    "github": "https://github.com/cyberchitta/scrapling-fetch-mcp",
+    "approved": true,
+    "githubStars": 11
+  },
+  {
+    "id": "searxng",
+    "name": "SearXNG",
+    "description": "A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ihor-sokoliuk/mcp-searxng",
+    "github": "https://github.com/ihor-sokoliuk/mcp-searxng",
+    "approved": true,
+    "githubStars": 48
+  },
+  {
+    "id": "servicenow",
+    "name": "ServiceNow",
+    "description": "A MCP server to interact with a ServiceNow instance",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/osomai/servicenow-mcp",
+    "github": "https://github.com/osomai/servicenow-mcp",
+    "approved": true,
+    "githubStars": 35
+  },
+  {
+    "id": "shopify",
+    "name": "Shopify",
+    "description": "MCP to interact with Shopify API including order, product, customers and so on",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GeLi2001/shopify-mcp",
+    "github": "https://github.com/GeLi2001/shopify-mcp",
+    "approved": true,
+    "githubStars": 18
+  },
+  {
+    "id": "siri-shortcuts",
+    "name": "Siri Shortcuts",
+    "description": "MCP to interact with Siri Shortcuts on macOS. Exposes all Shortcuts as MCP tools",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/dvcrn/mcp-server-siri-shortcuts",
+    "github": "https://github.com/dvcrn/mcp-server-siri-shortcuts",
+    "approved": true,
+    "githubStars": 102
+  },
+  {
+    "id": "snowflake",
+    "name": "Snowflake",
+    "description": "This MCP server enables LLMs to interact with Snowflake databases, allowing for secure and controlled data operations",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/isaacwasserman/mcp-snowflake-server",
+    "github": "https://github.com/isaacwasserman/mcp-snowflake-server",
+    "approved": true,
+    "githubStars": 36
+  },
+  {
+    "id": "solana-agent-kit",
+    "name": "Solana Agent Kit",
+    "description": "This MCP server enables LLMs to interact with the Solana blockchain with help of Solana Agent Kit by SendAI, allowing for 40+ protcool actions and growing",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server",
+    "github": "https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server",
+    "approved": true,
+    "githubStars": 1200
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "description": "This MCP allows an LLM to play and use Spotify",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/varunneal/spotify-mcp",
+    "github": "https://github.com/varunneal/spotify-mcp",
+    "approved": true,
+    "githubStars": 180
+  },
+  {
+    "id": "starwind-ui",
+    "name": "Starwind UI",
+    "description": "This MCP provides relevant commands, documentation, and other information to allow LLMs to take full advantage of Starwind UI's open source Astro components",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Boston343/starwind-ui-mcp/",
+    "github": "https://github.com/Boston343/starwind-ui-mcp/",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "stripe-2",
+    "name": "Stripe",
+    "description": "This MCP allows integration with Stripe for handling payments, customers, and refunds",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/atharvagupta2003/mcp-stripe",
+    "github": "https://github.com/atharvagupta2003/mcp-stripe",
+    "approved": true,
+    "githubStars": 22
+  },
+  {
+    "id": "shadertoy",
+    "name": "ShaderToy",
+    "description": "This MCP server lets LLMs to interact with the ShaderToy API, allowing LLMs to learn from compute shaders examples and enabling them to create complex GLSL shaders that they are previously not capable of",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/wilsonchenghy/ShaderToy-MCP",
+    "github": "https://github.com/wilsonchenghy/ShaderToy-MCP",
+    "approved": true,
+    "githubStars": 10
+  },
+  {
+    "id": "tmdb",
+    "name": "TMDB",
+    "description": "This MCP server integrates with The Movie Database (TMDB) API to provide movie information, search capabilities, and recommendations",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/Laksh-star/mcp-server-tmdb",
+    "github": "https://github.com/Laksh-star/mcp-server-tmdb",
+    "approved": true,
+    "githubStars": 20
+  },
+  {
+    "id": "tavily-search",
+    "name": "Tavily search",
+    "description": "An MCP server for Tavily's search & news API, with explicit site inclusions/exclusions",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/RamXX/mcp-tavily",
+    "github": "https://github.com/RamXX/mcp-tavily",
+    "approved": true,
+    "githubStars": 46
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram",
+    "description": "An MCP server that provides paginated chat reading, message retrieval, and message sending capabilities for Telegram through Telethon integration",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/chigwell/telegram-mcp",
+    "github": "https://github.com/chigwell/telegram-mcp",
+    "approved": true,
+    "githubStars": 31
+  },
+  {
+    "id": "terminal-control",
+    "name": "Terminal-Control",
+    "description": "A MCP server that enables secure terminal command execution, directory navigation, and file system operations through a standardized interface",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GongRzhe/terminal-controller-mcp",
+    "github": "https://github.com/GongRzhe/terminal-controller-mcp",
+    "approved": true,
+    "githubStars": 18
+  },
+  {
+    "id": "tft-match-analyzer",
+    "name": "TFT-Match-Analyzer",
+    "description": "MCP server for teamfight tactics match history & match details fetching, providing user the detailed context for every match",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GeLi2001/tft-mcp-server",
+    "github": "https://github.com/GeLi2001/tft-mcp-server",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "ticketmaster",
+    "name": "Ticketmaster",
+    "description": "Search for events, venues, and attractions through the Ticketmaster Discovery API",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/delorenj/mcp-server-ticketmaster",
+    "github": "https://github.com/delorenj/mcp-server-ticketmaster",
+    "approved": true,
+    "githubStars": 10
+  },
+  {
+    "id": "todoist",
+    "name": "Todoist",
+    "description": "Interact with Todoist to manage your tasks",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/abhiz123/todoist-mcp-server",
+    "github": "https://github.com/abhiz123/todoist-mcp-server",
+    "approved": true,
+    "githubStars": 133
+  },
+  {
+    "id": "typesense",
+    "name": "Typesense",
+    "description": "A Model Context Protocol (MCP) server implementation that provides AI models with access to Typesense search capabilities. This server enables LLMs to discover, search, and analyze data stored in Typesense collections",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/suhail-ak-s/mcp-typesense-server",
+    "github": "https://github.com/suhail-ak-s/mcp-typesense-server",
+    "approved": true,
+    "githubStars": 5
+  },
+  {
+    "id": "travel-planner",
+    "name": "Travel Planner",
+    "description": "Travel planning and itinerary management server integrating with Google Maps API for location search, place details, and route calculations",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server",
+    "github": "https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server",
+    "approved": true,
+    "githubStars": 29
+  },
+  {
+    "id": "unity-catalog",
+    "name": "Unity Catalog",
+    "description": "An MCP server that enables LLMs to interact with Unity Catalog AI, supporting CRUD operations on Unity Catalog Functions and executing them as MCP tools",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ognis1205/mcp-server-unitycatalog",
+    "github": "https://github.com/ognis1205/mcp-server-unitycatalog",
+    "approved": true,
+    "githubStars": 12
+  },
+  {
+    "id": "unity3d-game-engine",
+    "name": "Unity3d Game Engine",
+    "description": "An MCP server that enables LLMs to interact with Unity3d Game Engine, supporting access to a variety of the Unit's Editor engine tools (e.g. Console Logs, Test Runner logs, Editor functions, hierarchy state, etc) and executing them as MCP tools or gather them as resources",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/CoderGamester/mcp-unity",
+    "github": "https://github.com/CoderGamester/mcp-unity",
+    "approved": true,
+    "githubStars": 329
+  },
+  {
+    "id": "unity-integration-advanced",
+    "name": "Unity Integration (Advanced)",
+    "description": "Advanced Unity3d Game Engine MCP which supports ,Execution of Any Editor Related Code Directly Inside of Unity, Fetch Logs, Get Editor State and Allow File Access of the Project making it much more useful in Script Editing or asset creation",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/quazaai/UnityMCPIntegration",
+    "github": "https://github.com/quazaai/UnityMCPIntegration",
+    "approved": true,
+    "githubStars": 34
+  },
+  {
+    "id": "vega-lite",
+    "name": "Vega-Lite",
+    "description": "Generate visualizations from fetched data using the VegaLite format and renderer",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/isaacwasserman/mcp-vegalite-server",
+    "github": "https://github.com/isaacwasserman/mcp-vegalite-server",
+    "approved": true,
+    "githubStars": 50
+  },
+  {
+    "id": "video-editor",
+    "name": "Video Editor",
+    "description": "A Model Context Protocol Server to add, edit, and search videos with [Video Jungle](https://www.video-jungle.com/)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/burningion/video-editing-mcp",
+    "github": "https://github.com/burningion/video-editing-mcp",
+    "approved": true,
+    "githubStars": 98
+  },
+  {
+    "id": "virtual-location-google-street-view-etc",
+    "name": "Virtual location (Google Street View,etc.)",
+    "description": "Integrates Google Map, Google Street View, PixAI, Stability.ai, ComfyUI API and Bluesky to provide a virtual location simulation in LLM (written in Effect.ts)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/mfukushim/map-traveler-mcp",
+    "github": "https://github.com/mfukushim/map-traveler-mcp",
+    "approved": true,
+    "githubStars": 10
+  },
+  {
+    "id": "volcengine-tos",
+    "name": "VolcEngine TOS",
+    "description": "A sample MCP server for VolcEngine TOS that flexibly get objects from TOS",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/dinghuazhou/sample-mcp-server-tos",
+    "github": "https://github.com/dinghuazhou/sample-mcp-server-tos",
+    "approved": true,
+    "githubStars": 2
+  },
+  {
+    "id": "wanaku-mcp-router",
+    "name": "Wanaku MCP Router",
+    "description": "The Wanaku MCP Router is a SSE-based MCP server that provides an extensible routing engine that allows integrating your enterprise systems with AI agents",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/wanaku-ai/wanaku/",
+    "github": "https://github.com/wanaku-ai/wanaku/",
+    "approved": true,
+    "githubStars": 57
+  },
+  {
+    "id": "webflow",
+    "name": "Webflow",
+    "description": "Interfact with the Webflow APIs",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/kapilduraphe/webflow-mcp-server",
+    "github": "https://github.com/kapilduraphe/webflow-mcp-server",
+    "approved": true,
+    "githubStars": 9
+  },
+  {
+    "id": "whale-tracker-mcp",
+    "name": "whale-tracker-mcp",
+    "description": "A mcp server for tracking cryptocurrency whale transactions",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/kukapay/whale-tracker-mcp",
+    "github": "https://github.com/kukapay/whale-tracker-mcp",
+    "approved": true,
+    "githubStars": 9
+  },
+  {
+    "id": "whois-mcp",
+    "name": "Whois MCP",
+    "description": "MCP server that performs whois lookup against domain, IP, ASN and TLD",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/bharathvaj-ganesan/whois-mcp",
+    "github": "https://github.com/bharathvaj-ganesan/whois-mcp",
+    "approved": true,
+    "githubStars": 6
+  },
+  {
+    "id": "wikidata-mcp",
+    "name": "Wikidata MCP",
+    "description": "Wikidata MCP server that interact with Wikidata, by searching identifiers, extracting metadata, and executing sparql query",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/zzaebok/mcp-wikidata",
+    "github": "https://github.com/zzaebok/mcp-wikidata",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "wildfly-mcp",
+    "name": "WildFly MCP",
+    "description": "WildFly MCP server that enables LLM to interact with running WildFly servers (retrieve metrics, logs, invoke operations, ...)",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/wildfly-extras/wildfly-mcp",
+    "github": "https://github.com/wildfly-extras/wildfly-mcp",
+    "approved": true,
+    "githubStars": 4
+  },
+  {
+    "id": "windows-cli",
+    "name": "Windows CLI",
+    "description": "MCP server for secure command-line interactions on Windows systems, enabling controlled access to PowerShell, CMD, and Git Bash shells",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/SimonB97/win-cli-mcp-server",
+    "github": "https://github.com/SimonB97/win-cli-mcp-server",
+    "approved": true,
+    "githubStars": 129
+  },
+  {
+    "id": "world-bank-data-api",
+    "name": "World Bank data API",
+    "description": "A server that fetches data indicators available with the World Bank as part of their data API",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/anshumax/world_bank_mcp_server",
+    "github": "https://github.com/anshumax/world_bank_mcp_server",
+    "approved": true,
+    "githubStars": 16
+  },
+  {
+    "id": "x-twitter",
+    "name": "X (Twitter)",
+    "description": "Interact with twitter API. Post tweets and search for tweets by query",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/EnesCinr/twitter-mcp",
+    "github": "https://github.com/EnesCinr/twitter-mcp",
+    "approved": true,
+    "githubStars": 175
+  },
+  {
+    "id": "x-twitter-2",
+    "name": "X (Twitter)",
+    "description": "Create, manage and publish X/Twitter posts directly through Claude chat",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/vidhupv/x-mcp",
+    "github": "https://github.com/vidhupv/x-mcp",
+    "approved": true,
+    "githubStars": 46
+  },
+  {
+    "id": "xcodebuild",
+    "name": "xcodebuild",
+    "description": "🍎 Build iOS Xcode workspace/project and feed back errors to llm",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ShenghaiWang/xcodebuild",
+    "github": "https://github.com/ShenghaiWang/xcodebuild",
+    "approved": true,
+    "githubStars": 41
+  },
+  {
+    "id": "xero-mcp-server",
+    "name": "Xero-mcp-server",
+    "description": "Enabling clients to interact with Xero system for streamlined accounting, invoicing, and business operations",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/john-zhang-dev/xero-mcp",
+    "github": "https://github.com/john-zhang-dev/xero-mcp",
+    "approved": true,
+    "githubStars": 11
+  },
+  {
+    "id": "xiyan",
+    "name": "XiYan",
+    "description": "🗄️ An MCP server that supports fetching data from a database using natural language queries, powered by XiyanSQL as the text-to-SQL LLM",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/XGenerationLab/xiyan_mcp_server",
+    "github": "https://github.com/XGenerationLab/xiyan_mcp_server",
+    "approved": true,
+    "githubStars": 54
+  },
+  {
+    "id": "xmind",
+    "name": "XMind",
+    "description": "Read and search through your XMind directory containing XMind files",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/apeyroux/mcp-xmind",
+    "github": "https://github.com/apeyroux/mcp-xmind",
+    "approved": true,
+    "githubStars": 18
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "description": "Comprehensive YouTube API integration for video management, Shorts creation, and analytics",
+    "category": [
+      "Community Servers"
+    ],
+    "isOpenSource": true,
+    "website": "https://github.com/ZubeidHendricks/youtube-mcp-server",
+    "github": "https://github.com/ZubeidHendricks/youtube-mcp-server",
+    "approved": true,
+    "githubStars": 95
+  },
+  {
+    "name": "investor-agent",
+    "website": "https://github.com/ferdousbhai/investor-agent",
+    "description": "The investor-agent is a Model Context Protocol (MCP) server that provides comprehensive financial insights and analysis to Large Language Models",
+    "gitRepo": "https://github.com/ferdousbhai/investor-agent",
+    "logo": "https://avatars.githubusercontent.com/u/23114244?s=48&v=4",
+    "category": "Fintech & Finance",
+    "approved": false,
+    "githubStars": null
+  }
+]
